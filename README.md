@@ -11,8 +11,8 @@ PurrfectMatch is built for helping animal adoption. You can view and add the fur
 
 
 # Team
-Backend: Kia, Shan
-Frontend: Joshua, Kevin
+- Backend: Kia, Shan
+- Frontend: Joshua, Kevin
 
 # Technique
 HTML, Django, React, Bootstrap, JWT
