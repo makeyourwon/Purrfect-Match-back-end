@@ -49,6 +49,7 @@ Adoption Process Information
 https://trello.com/b/VbdaIAZh/purrrfect-match
 
 # Timeline
+-----|----------------
 2/9  | Create Proposal
 2/12 | Complete Scaffolding
 2/12 | Get API Key for 3rd party integration
@@ -56,6 +57,7 @@ https://trello.com/b/VbdaIAZh/purrrfect-match
 2/13 | Test Authentication
 2/14 | Deployment
 2/15 | Style Project
+-----|---------------
 
 # Blockers
 TBD
