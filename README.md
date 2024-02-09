@@ -14,9 +14,8 @@ HTML, Django, React, Bootstrap, JWT
 
 # User Stories
 
-+ User Registration and Login
-
-As a new visitor, I want to create an account using my email, so that I can log into the app and save my favorite animals.
+User Registration and Login
+- As a new visitor, I want to create an account using my email, so that I can log into the app and save my favorite animals.
 As a registered user, I want to log in with my username and password, so that I can access my personalized app experience.
 
 + Viewing Animals
