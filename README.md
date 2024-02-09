@@ -18,8 +18,10 @@ PurrfectMatch is built for helping animal adoption. You can view and add the fur
 HTML, Django, React, Bootstrap, JWT
 
 # User Stories
-
+Registration and Login: 
+- As a user, I would like the option to create an account, so that I can manage my favorites and possibly start the adoption application process directly through the app, making the entire experience more personalized and streamlined.
 User Interface
+
 - As a user, I would like a clean, user-friendly interface that allows me to easily navigate through the app, including a home page, search and filter options, animal listings, and detailed animal profiles, so that I can find the information I need quickly and efficiently.
   
 Search and Filters: 
@@ -35,14 +37,14 @@ Detailed Animal Profile:
 Favorites/Bookmarking: 
 - As a user, I would like the ability to save or bookmark animals I am interested in, so that I can easily find these listings later and keep track of animals I may want to adopt.
   
-Shelter/Rescue Profiles: 
-- As a user, I would like to see optional profiles for shelters and rescues, providing information about the organization, their mission, and contact details, so that I can learn more about the places I am considering adopting from.
-User Registration and Login: As a user, I would like the option to create an account, so that I can manage my favorites and possibly start the adoption application process directly through the app, making the entire experience more personalized and streamlined.
+
+
 
 # ERD
 ![PurrfectMatch ERD](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/8d571696-027e-4040-809a-1465a97ea7af)
 
 # Component Hierarchy Diagram
+![component hierarchey](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/cdf3c040-d537-4627-a392-f6f6a0e20ed0)
 
 # Routing Table
 
@@ -102,7 +104,15 @@ https://trello.com/b/VbdaIAZh/purrrfect-match
 # Blockers
 TBD
 
-# Next steps
+# Ice box
+1. User reviews
+2. List shelters nearby - may require google api
+3. volunteering opportunities page for shelters
+4. Donations page with link
+5. Pet Care Tips for new owners
+
+
+
 
 
 
