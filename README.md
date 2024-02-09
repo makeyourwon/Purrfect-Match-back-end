@@ -2,24 +2,24 @@
 ![PurrfectMatch](https://github.com/Kevelaz/Purrfect-Match-back-end/assets/149891853/563ae4e1-8c56-444b-8bd5-77933e70477e)
 
 
-#Overview
+# Overview
 PurrfectMatch is built for helping animal adoption. You can view and add the furry friend to adoption list. You will be able to contact the shelter for further application.
 
-#Team
+# Team
 Backend: Kia, Shan
 Frontend: Joshua, Kevin
 
-#Technique
+# Technique
 HTML, Django, React, Bootstrap, JWT
 
-#User Stories
+# User Stories
 
-User Registration and Login
++ User Registration and Login
 
 As a new visitor, I want to create an account using my email, so that I can log into the app and save my favorite animals.
 As a registered user, I want to log in with my username and password, so that I can access my personalized app experience.
-Viewing Animals
 
++ Viewing Animals
 As a user, I want to view a list of animals, so that I can see all the available animals for adoption.
 As a user, I want to filter animals by type, breed, age, and size, so that I can find an animal that matches my preferences.
 As a user, I want to view detailed information about each animal, including their photo, description, and shelter details, so that I can learn more about them.
