@@ -45,6 +45,45 @@ Adoption Process Information
 
 # Component Hierarchy Diagram
 
+# Routing Table
+
+### Public Pages
+| Page Type           | URL        | Description                                           |
+|---------------------|------------|-------------------------------------------------------|
+| Homepage            | /          | Introductory information and login/register options.  |
+| Login Page          | /login     | For user login.                                       |
+| Registration Page   | /register  | For new user registration.                            |
+### Authenticated User Pages
+| Page Type            | URL           | Description                            |
+|----------------------|---------------|----------------------------------------|
+| User's Profile Page  | /profile      | View and edit user profile details.    |
+| Favorites Page       | /favorites    | Shows favorited animals.               |
+| Animal Listings Page | /animals      | Lists all animals with filter options. |
+| Animal Detail Page   | /animals/:id  | Detailed view of a specific animal.    |
+### Backend API URL Paths
+#### User Authentication, Registration, and Token Management
+| Function              | URL                                  | Method    | Description                    |
+|-----------------------|--------------------------------------|-----------|--------------------------------|
+| User registration     | /purrmatch/user/register/            | POST      | User registration.             |
+| User login            | /purrmatch/user/login/               | POST      | User login, returns tokens.    |
+| Refresh access token  | /purrmatch/user/token/refresh/       | POST      | Refresh access token.          |
+#### User Profile Management
+| Function               | URL                                   | Method    | Description                   |
+|------------------------|---------------------------------------|-----------|-------------------------------|
+| Fetch profile details  | /purrmatch/user/profile/              | GET       | Fetch user's profile details. |
+| Update profile information | /purrmatch/user/profile/update/   | PUT/PATCH | Update profile information.   |
+#### Animal Listings and Filters
+| Function             | URL                              | Method | Description                        |
+|----------------------|----------------------------------|--------|------------------------------------|
+| List all animals     | /purrmatch/animals/              | GET    | List all animals with filters.     |
+| Animal details by ID | /purrmatch/animals/<int:id>/     | GET    | Animal details by ID.              |
+#### Favorites Management
+| Function                   | URL                                      | Method | Description                      |
+|----------------------------|------------------------------------------|--------|----------------------------------|
+| List favorited animals     | /purrmatch/favorites/                    | GET    | List user's favorited animals.   |
+| Add an animal to favorites | /purrmatch/favorites/add/                | POST   | Add an animal to favorites.      |
+| Remove an animal from favorites | /purrmatch/favorites/remove/<int:id>/ | DELETE | Remove an animal from favorites. |
+
 # Trello
 https://trello.com/b/VbdaIAZh/purrrfect-match
 
@@ -59,7 +98,7 @@ https://trello.com/b/VbdaIAZh/purrrfect-match
 |2/13 | Test Authentication|
 |2/14 | Deployment|
 |2/15 | Style Project|
-|-----|---------------|
+
 
 # Blockers
 TBD
