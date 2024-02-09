@@ -6,8 +6,9 @@
 PurrfectMatch is built for helping animal adoption. You can view and add the furry friend to adoption list. You will be able to contact the shelter for further application.
 
 # Wireframe
-![PurrfectMatch wireframe 1](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/28e33b2f-eeb7-435b-ba01-5f8af8187bda)
-![PurrfectMatch wireframe 2](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/e93e1836-9e90-497c-9ce0-7812ec5e1b8c)
+![PurrfetMatch wireframe 2](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/25e214bb-cd20-4166-bf84-029094d0fa94)
+![Purrfection wireframe 1](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/c027f639-ee29-4db1-8b3a-392d6cabd1d4)
+
 
 
 # Team
