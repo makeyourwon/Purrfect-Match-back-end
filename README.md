@@ -50,13 +50,13 @@ https://trello.com/b/VbdaIAZh/purrrfect-match
 
 # Timeline
 
-|-----|----------------|
+
 |2/9  | Create Proposal|
 |-----|----------------|
-
-
 |2/12 | Complete Scaffolding|
+|-----|--------|
 |2/12 | Get API Key for 3rd party integration|
+|-----|-----|
 |2/12 | Test Routes BackEnd|
 |2/13 | Test Authentication|
 |2/14 | Deployment|
