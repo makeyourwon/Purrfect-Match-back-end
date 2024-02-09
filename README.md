@@ -19,31 +19,25 @@ HTML, Django, React, Bootstrap, JWT
 
 # User Stories
 
-User Registration and Login
-- As a new visitor, I want to create an account using my email, so that I can log into the app and save my favorite animals.
-- As a registered user, I want to log in with my username and password, so that I can access my personalized app experience.
+User Interface
+- As a user, I would like a clean, user-friendly interface that allows me to easily navigate through the app, including a home page, search and filter options, animal listings, and detailed animal profiles, so that I can find the information I need quickly and efficiently.
+  
+Search and Filters: 
+- As a user, I would like to have search and filter options that allow me to refine my search based on specific criteria such as animal type (dog, cat, etc.), breed, size, age, and location, so that I can find a pet that matches my preferences more easily.
 
-Viewing Animals
-- As a user, I want to view a list of animals, so that I can see all the available animals for adoption.
-- As a user, I want to filter animals by type, breed, age, and size, so that I can find an animal that matches my preferences.
-- As a user, I want to view detailed information about each animal, including their photo, description, and shelter details, so that I can learn more about them.
 
-Favorite Animals
-- As a logged-in user, I want to add animals to my favorites, so that I can easily find them later.
-- As a user, I want to view my list of favorite animals, so that I can keep track of animals I am interested in.
-
-Shelter Information
-- As a user, I want to view information about different shelters, including their location and contact information, so that I can visit or contact them.
-- As a user, I want to view all animals available at a specific shelter, so that I can see if they have the type of animal I am looking for.
-
-Contacting Shelters
-- As a user, I want to contact shelters directly through the app, so that I can inquire more about a specific animal or visitation details.
-
-User Profile Management
-- As a logged-in user, I want to update my contact information, so that the shelters can reach me easily.
-
-Adoption Process Information
-- As a user, I want to find information about the adoption process, so that I know how to proceed if I decide to adopt an animal.
+Animal Listings: 
+- As a user, I would like a dynamic section where animals available for adoption are displayed, including a picture, name, age, breed, and a short description for each, and by clicking on a listing, I can view a detailed profile of the animal, so that I can explore my options comprehensively.
+  
+Detailed Animal Profile: 
+- As a user, I would like to see a detailed profile page for each animal, providing comprehensive information including multiple photos, a longer description, health and vaccination status, adoption requirements, and contact information for the shelter or rescue, so that I can make an informed decision about adopting them.
+  
+Favorites/Bookmarking: 
+- As a user, I would like the ability to save or bookmark animals I am interested in, so that I can easily find these listings later and keep track of animals I may want to adopt.
+  
+Shelter/Rescue Profiles: 
+- As a user, I would like to see optional profiles for shelters and rescues, providing information about the organization, their mission, and contact details, so that I can learn more about the places I am considering adopting from.
+User Registration and Login: As a user, I would like the option to create an account, so that I can manage my favorites and possibly start the adoption application process directly through the app, making the entire experience more personalized and streamlined.
 
 # ERD
 ![PurrfectMatch ERD](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/8d571696-027e-4040-809a-1465a97ea7af)
