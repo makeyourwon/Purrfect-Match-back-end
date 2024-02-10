@@ -1,0 +1,3777 @@
+[
+    {
+        "name": "Loki",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Large",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "515 New Commerce Drive, Oxford, NC 27565",
+        "description": "IMG_20240116_131911307.jpgGranville County Animal Shelter\n919-693-6749\nanimal.shelter@granvillecounty.org",
+        "photos": [],
+        "contact": {
+            "email": "matt.katz@granvillecounty.org",
+            "phone": "(919) 693-6749",
+            "address": {
+                "address1": "515 New Commerce Drive",
+                "address2": null,
+                "city": "Oxford",
+                "state": "NC",
+                "postcode": "27565",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Luke",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Senior",
+        "size": "Large",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "515 New Commerce Drive, Oxford, NC 27565",
+        "description": "IMG_20240203_123511786.jpgGranville County Animal Shelter\n919-693-6749\nanimal.shelter@granvillecounty.org",
+        "photos": [],
+        "contact": {
+            "email": "matt.katz@granvillecounty.org",
+            "phone": "(919) 693-6749",
+            "address": {
+                "address1": "515 New Commerce Drive",
+                "address2": null,
+                "city": "Oxford",
+                "state": "NC",
+                "postcode": "27565",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Shoney",
+        "type": "Dog",
+        "breed": {
+            "primary": "Pit Bull Terrier",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Black",
+            "secondary": "White / Cream",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "328 Furman Hall Road, Greenville, SC 29609",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "adoptapet@greenvillecounty.org",
+            "phone": "(864) 467-3985",
+            "address": {
+                "address1": "328 Furman Hall Road",
+                "address2": null,
+                "city": "Greenville",
+                "state": "SC",
+                "postcode": "29609",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Rhapsody",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Medium Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Tortoiseshell",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Las Vegas, NV 89193",
+        "description": "I am an adorable little girl with beautiful green eyes and a bright pink nose!  I am 9 months old,...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70653624/1/?bust=1707398627&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70653624/1/?bust=1707398627&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70653624/1/?bust=1707398627&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70653624/1/?bust=1707398627"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70653624/2/?bust=1707398628&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70653624/2/?bust=1707398628&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70653624/2/?bust=1707398628&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70653624/2/?bust=1707398628"
+            }
+        ],
+        "contact": {
+            "email": "purr2014@gmail.com",
+            "phone": null,
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Las Vegas",
+                "state": "NV",
+                "postcode": "89193",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "MORK",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Gray & White",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Grand Forks, ND 58203",
+        "description": "Foster feedback coming soon!",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672703/2/?bust=1707513979&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672703/2/?bust=1707513979&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672703/2/?bust=1707513979&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672703/2/?bust=1707513979"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672703/1/?bust=1707513979&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672703/1/?bust=1707513979&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672703/1/?bust=1707513979&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672703/1/?bust=1707513979"
+            }
+        ],
+        "contact": {
+            "email": "info@journeyhomeanimalrescue.org",
+            "phone": null,
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Grand Forks",
+                "state": "ND",
+                "postcode": "58203",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Harris Sequel-Della",
+        "type": "Dog",
+        "breed": {
+            "primary": "Cattle Dog",
+            "secondary": "Mixed Breed",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": "White / Cream",
+            "secondary": "Black",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Ferndale, MI 48220",
+        "description": "Hi my name is Della,\n\nI am a lab / Boxer mix that was born around 10/24/23. \n\nHere is what...",
+        "photos": [],
+        "contact": {
+            "email": "info@happypawshaven.pet",
+            "phone": "(248) 303-5002",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Ferndale",
+                "state": "MI",
+                "postcode": "48220",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Harris Sequel-Dustin",
+        "type": "Dog",
+        "breed": {
+            "primary": "Cattle Dog",
+            "secondary": "Mixed Breed",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": "Black",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Ferndale, MI 48220",
+        "description": "Hi my name is Dustin,\n\nI am a lab / Boxer mix that was born around 10/24/23. \n\nHere is what...",
+        "photos": [],
+        "contact": {
+            "email": "info@happypawshaven.pet",
+            "phone": "(248) 303-5002",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Ferndale",
+                "state": "MI",
+                "postcode": "48220",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Boo Boo",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Black",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "1001 Taintor Road, Springfield, IL 62702",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "petfinder@apl-shelter.org",
+            "phone": "(217) 544-7387",
+            "address": {
+                "address1": "1001 Taintor Road",
+                "address2": null,
+                "city": "Springfield",
+                "state": "IL",
+                "postcode": "62702",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "18942",
+        "type": "Dog",
+        "breed": {
+            "primary": "Black Labrador Retriever",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Large",
+        "gender": "Female",
+        "color": {
+            "primary": "Black",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2170 Old Furnace Rd., Harrisonburg, VA 22801",
+        "description": "***This animal is not yet available for adoption***\n\n\nThis dog was found on 02/08/24 on Ladybug Road near Pinegrove Rd...",
+        "photos": [],
+        "contact": {
+            "email": "info@rhspca.org",
+            "phone": "(540) 434-5270",
+            "address": {
+                "address1": "2170 Old Furnace Rd.",
+                "address2": null,
+                "city": "Harrisonburg",
+                "state": "VA",
+                "postcode": "22801",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Banjo",
+        "type": "Dog",
+        "breed": {
+            "primary": "Lhasa Apso",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Red / Chestnut / Orange",
+            "secondary": "White / Cream",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2789 S Orange Ave, Fresno, CA 93725",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@animalcompassionteam.com",
+            "phone": "(559) 299-6364",
+            "address": {
+                "address1": "2789 S Orange Ave",
+                "address2": null,
+                "city": "Fresno",
+                "state": "CA",
+                "postcode": "93725",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Silas",
+        "type": "Dog",
+        "breed": {
+            "primary": "Pekingese",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Black",
+            "secondary": "Gray / Blue / Silver",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2789 S Orange Ave, Fresno, CA 93725",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@animalcompassionteam.com",
+            "phone": "(559) 299-6364",
+            "address": {
+                "address1": "2789 S Orange Ave",
+                "address2": null,
+                "city": "Fresno",
+                "state": "CA",
+                "postcode": "93725",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Mr. Peabody",
+        "type": "Dog",
+        "breed": {
+            "primary": "Jack Russell Terrier",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Yellow / Tan / Blond / Fawn",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2789 S Orange Ave, Fresno, CA 93725",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@animalcompassionteam.com",
+            "phone": "(559) 299-6364",
+            "address": {
+                "address1": "2789 S Orange Ave",
+                "address2": null,
+                "city": "Fresno",
+                "state": "CA",
+                "postcode": "93725",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Chartreuse",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Flame Point",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Clarksdale, MS 38614",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "CaresClarksdale@gmail.com",
+            "phone": "(662) 627-7870",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Clarksdale",
+                "state": "MS",
+                "postcode": "38614",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Queen",
+        "type": "Dog",
+        "breed": {
+            "primary": "Terrier",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "White / Cream",
+            "secondary": "Black",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Clarksdale, MS 38614",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "CaresClarksdale@gmail.com",
+            "phone": "(662) 627-7870",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Clarksdale",
+                "state": "MS",
+                "postcode": "38614",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Karen 01-2349",
+        "type": "Dog",
+        "breed": {
+            "primary": "Shih Tzu",
+            "secondary": "Hound",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": "White / Cream",
+            "secondary": "Yellow / Tan / Blond / Fawn",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "414 Jenkins Rd, Tyrone, GA 30290",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "petfinder@royalanimalrefuge.org",
+            "phone": null,
+            "address": {
+                "address1": "414 Jenkins Rd",
+                "address2": null,
+                "city": "Tyrone",
+                "state": "GA",
+                "postcode": "30290",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Logan",
+        "type": "Dog",
+        "breed": {
+            "primary": "Black Labrador Retriever",
+            "secondary": "Mixed Breed",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Black",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Tylertown, MS 39667",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "director.sfas@gmail.com",
+            "phone": "(601) 803-1256",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Tylertown",
+                "state": "MS",
+                "postcode": "39667",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Davis",
+        "type": "Dog",
+        "breed": {
+            "primary": "Corgi",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": "White / Cream",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Tylertown, MS 39667",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "director.sfas@gmail.com",
+            "phone": "(601) 803-1256",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Tylertown",
+                "state": "MS",
+                "postcode": "39667",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Porkchop",
+        "type": "Dog",
+        "breed": {
+            "primary": "Dachshund",
+            "secondary": "Mixed Breed",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Tylertown, MS 39667",
+        "description": "It&amp;#39;s time to fall in love with this adorable cuddle bug! Prepare for your heart to explode with joy when...",
+        "photos": [],
+        "contact": {
+            "email": "director.sfas@gmail.com",
+            "phone": "(601) 803-1256",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Tylertown",
+                "state": "MS",
+                "postcode": "39667",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Timmy",
+        "type": "Dog",
+        "breed": {
+            "primary": "Chihuahua",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Senior",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Yellow / Tan / Blond / Fawn",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Wappingers Falls, NY 12590",
+        "description": "I am in a foster to adopt home! A family came to the shelter and fell in love with me,...",
+        "photos": [],
+        "contact": {
+            "email": "careofdcadoptapps@gmail.com",
+            "phone": "(845) 240-4862",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Wappingers Falls",
+                "state": "NY",
+                "postcode": "12590",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Ghost",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Black",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Wahiawa, HI 96786",
+        "description": "Hey, I&#039;m Ghost and I&#039;m around 6 months old. I came to the shelter with my brother, Casper. I&#039;m a...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672684/1/?bust=1707513902&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672684/1/?bust=1707513902&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672684/1/?bust=1707513902&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672684/1/?bust=1707513902"
+            }
+        ],
+        "contact": {
+            "email": "info@oahuspca.org",
+            "phone": "(808) 754-1519",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Wahiawa",
+                "state": "HI",
+                "postcode": "96786",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Petunia ",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Large",
+        "gender": "Female",
+        "color": {
+            "primary": "Black",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "555 Sandy Bank Road, Media, PA 19063",
+        "description": "\u201cThanks for visiting me online! I\u2019m a new arrival to Providence Animal Center and can\u2019t wait to move from here...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672683/1/?bust=1707513882&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672683/1/?bust=1707513882&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672683/1/?bust=1707513882&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672683/1/?bust=1707513882"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672683/2/?bust=1707513883&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672683/2/?bust=1707513883&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672683/2/?bust=1707513883&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672683/2/?bust=1707513883"
+            }
+        ],
+        "contact": {
+            "email": "Adoptions@providenceac.org",
+            "phone": "(610) 566-4575",
+            "address": {
+                "address1": "555 Sandy Bank Road",
+                "address2": null,
+                "city": "Media",
+                "state": "PA",
+                "postcode": "19063",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Cassanova",
+        "type": "Dog",
+        "breed": {
+            "primary": "Basset Hound",
+            "secondary": "Beagle",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Tricolor (Brown, Black, & White)",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Boerne, TX 78006",
+        "description": "WE ARE A TX BASED RESCUE. THIS DOG IS CURRENTLY LOCATED IN TX AND WILL BE TRANSPORTED UPON ADOPTION. Please...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/3/?bust=1707513878&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/3/?bust=1707513878&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/3/?bust=1707513878&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/3/?bust=1707513878"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/1/?bust=1707513877&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/1/?bust=1707513877&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/1/?bust=1707513877&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/1/?bust=1707513877"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/2/?bust=1707513877&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/2/?bust=1707513877&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/2/?bust=1707513877&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/2/?bust=1707513877"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/4/?bust=1707513878&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/4/?bust=1707513878&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/4/?bust=1707513878&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/4/?bust=1707513878"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/5/?bust=1707513879&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/5/?bust=1707513879&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/5/?bust=1707513879&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/5/?bust=1707513879"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/6/?bust=1707513879&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/6/?bust=1707513879&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/6/?bust=1707513879&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672680/6/?bust=1707513879"
+            }
+        ],
+        "contact": {
+            "email": "Hay_dude_equine@yahoo.com",
+            "phone": null,
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Boerne",
+                "state": "TX",
+                "postcode": "78006",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Bonnie",
+        "type": "Dog",
+        "breed": {
+            "primary": "German Shepherd Dog",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": "Black",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "223 Searights Herbert Road, Uniontown, PA 15401",
+        "description": null,
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672551/1/?bust=1707513249&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672551/1/?bust=1707513249&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672551/1/?bust=1707513249&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672551/1/?bust=1707513249"
+            }
+        ],
+        "contact": {
+            "email": "ffoa.a.let.live.shelter@gmail.com",
+            "phone": "(724) 245-7815",
+            "address": {
+                "address1": "223 Searights Herbert Road",
+                "address2": "P.O. Box 1282",
+                "city": "Uniontown",
+                "state": "PA",
+                "postcode": "15401",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Maisie",
+        "type": "Cat",
+        "breed": {
+            "primary": "Calico",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Midland, TX 79707",
+        "description": "Maisie is a 1 year old female Domestic Short Hair with gorgeous Calico markings. She and several other cats were...",
+        "photos": [],
+        "contact": {
+            "email": "Adopt@midlandhumane.org",
+            "phone": "(432) 557-3405",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Midland",
+                "state": "TX",
+                "postcode": "79707",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Theia",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Midland, TX 79707",
+        "description": "Theia is a 1 year old female Domestic Short Hair with striking Tortoise shell markings. Theia and several other cats...",
+        "photos": [],
+        "contact": {
+            "email": "Adopt@midlandhumane.org",
+            "phone": "(432) 557-3405",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Midland",
+                "state": "TX",
+                "postcode": "79707",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "BatMan",
+        "type": "Dog",
+        "breed": {
+            "primary": "Labrador Retriever",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Large",
+        "gender": "Male",
+        "color": {
+            "primary": "Black",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Las Vegas, NV 89103",
+        "description": "Batman is a 5 yr old lab mix and is the perfect mix of good times and snuggle time. \n\nHe&#039;s...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/1/?bust=1707513835&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/1/?bust=1707513835&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/1/?bust=1707513835&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/1/?bust=1707513835"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/2/?bust=1707513835&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/2/?bust=1707513835&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/2/?bust=1707513835&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/2/?bust=1707513835"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/3/?bust=1707513836&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/3/?bust=1707513836&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/3/?bust=1707513836&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672675/3/?bust=1707513836"
+            }
+        ],
+        "contact": {
+            "email": "ahome4spot@gmail.com",
+            "phone": "(702) 239-7986",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Las Vegas",
+                "state": "NV",
+                "postcode": "89103",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Bo 421701 HousebrokenLovingDevotedBoy",
+        "type": "Dog",
+        "breed": {
+            "primary": "Boxer",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2811 SE 29th Street, Oklahoma City, OK 73129",
+        "description": "Bo is in a foster home! Contact his foster family at shelbydawn0101@yahoo.com\nor by text at 405-205-3233 to meet Bo!...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/1/?bust=1707513845&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/1/?bust=1707513845&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/1/?bust=1707513845&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/1/?bust=1707513845"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/2/?bust=1707513846&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/2/?bust=1707513846&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/2/?bust=1707513846&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/2/?bust=1707513846"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/3/?bust=1707513846&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/3/?bust=1707513846&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/3/?bust=1707513846&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/3/?bust=1707513846"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/4/?bust=1707513847&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/4/?bust=1707513847&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/4/?bust=1707513847&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/4/?bust=1707513847"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/5/?bust=1707513847&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/5/?bust=1707513847&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/5/?bust=1707513847&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/5/?bust=1707513847"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/6/?bust=1707513848&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/6/?bust=1707513848&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/6/?bust=1707513848&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672676/6/?bust=1707513848"
+            }
+        ],
+        "contact": {
+            "email": "animalwelfare@okc.gov",
+            "phone": "405-297-3100  ",
+            "address": {
+                "address1": "2811 SE 29th Street",
+                "address2": null,
+                "city": "Oklahoma City",
+                "state": "OK",
+                "postcode": "73129",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Casper",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Tabby (Buff / Tan / Fawn)",
+            "secondary": "Gray / Blue / Silver",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Wahiawa, HI 96786",
+        "description": "Hi, I&#039;m Casper and I&#039;m around 6 months old. I&#039;m super friendly and social. I&#039;d make the PURFECT additional to...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672674/1/?bust=1707513804&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672674/1/?bust=1707513804&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672674/1/?bust=1707513804&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672674/1/?bust=1707513804"
+            }
+        ],
+        "contact": {
+            "email": "info@oahuspca.org",
+            "phone": "(808) 754-1519",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Wahiawa",
+                "state": "HI",
+                "postcode": "96786",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Archer - Adopt Me!",
+        "type": "Dog",
+        "breed": {
+            "primary": "American Staffordshire Terrier",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Lake Forest, CA 92630",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@thelittlereddog.org",
+            "phone": "(949) 427-0925",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Lake Forest",
+                "state": "CA",
+                "postcode": "92630",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Ziggy",
+        "type": "Dog",
+        "breed": {
+            "primary": "Husky",
+            "secondary": "Pit Bull Terrier",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Large",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "45244 National Road West, Saint Clairsville, OH 43950",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "belmontcoshelter@att.net",
+            "phone": "(740) 695-4708",
+            "address": {
+                "address1": "45244 National Road West",
+                "address2": null,
+                "city": "Saint Clairsville",
+                "state": "OH",
+                "postcode": "43950",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Oliver",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Senior",
+        "size": "Large",
+        "gender": "Male",
+        "color": {
+            "primary": "Gray & White",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "556B Freeman Lane, Grass Valley, CA 95945",
+        "description": null,
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672661/1/?bust=1707513773&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672661/1/?bust=1707513773&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672661/1/?bust=1707513773&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672661/1/?bust=1707513773"
+            }
+        ],
+        "contact": {
+            "email": null,
+            "phone": "(530) 477-4630",
+            "address": {
+                "address1": "556B Freeman Lane",
+                "address2": null,
+                "city": "Grass Valley",
+                "state": "CA",
+                "postcode": "95945",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Cookie Crisp",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": "Basset Hound",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "950 S. Grove Blvd., Kingsland, GA 31548",
+        "description": "ADOPTION PROCESS: The adoption process is simple and straight forward.\n\n\nPre-Screening Adoption Application here: https://tinyurl.com/adoptfromHSCC\n\nOur receptionists can usually approve/dis-approve...",
+        "photos": [],
+        "contact": {
+            "email": "hscc@tds.net",
+            "phone": "(912) 729-7141",
+            "address": {
+                "address1": "950 S. Grove Blvd.",
+                "address2": "P.O. Box 1270",
+                "city": "Kingsland",
+                "state": "GA",
+                "postcode": "31548",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Legend",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": "German Shepherd Dog",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Large",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "950 S. Grove Blvd., Kingsland, GA 31548",
+        "description": "ADOPTION PROCESS: The adoption process is simple and straight forward.\n\n\nPre-Screening Adoption Application here: https://tinyurl.com/adoptfromHSCC\n\nOur receptionists can usually approve/dis-approve...",
+        "photos": [],
+        "contact": {
+            "email": "hscc@tds.net",
+            "phone": "(912) 729-7141",
+            "address": {
+                "address1": "950 S. Grove Blvd.",
+                "address2": "P.O. Box 1270",
+                "city": "Kingsland",
+                "state": "GA",
+                "postcode": "31548",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Snowflake",
+        "type": "Rabbit",
+        "breed": {
+            "primary": "American",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "950 S. Grove Blvd., Kingsland, GA 31548",
+        "description": "ADOPTION PROCESS: The adoption process is simple and straight forward.\n\n\nPre-Screening Adoption Application here: https://tinyurl.com/adoptfromHSCC\n\nOur receptionists can usually approve/dis-approve...",
+        "photos": [],
+        "contact": {
+            "email": "hscc@tds.net",
+            "phone": "(912) 729-7141",
+            "address": {
+                "address1": "950 S. Grove Blvd.",
+                "address2": "P.O. Box 1270",
+                "city": "Kingsland",
+                "state": "GA",
+                "postcode": "31548",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Alita",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "950 S. Grove Blvd., Kingsland, GA 31548",
+        "description": "ADOPTION PROCESS: The adoption process is simple and straight forward.\n\n\nPre-Screening Adoption Application here: https://tinyurl.com/adoptfromHSCC\n\nOur receptionists can usually approve/dis-approve...",
+        "photos": [],
+        "contact": {
+            "email": "hscc@tds.net",
+            "phone": "(912) 729-7141",
+            "address": {
+                "address1": "950 S. Grove Blvd.",
+                "address2": "P.O. Box 1270",
+                "city": "Kingsland",
+                "state": "GA",
+                "postcode": "31548",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Cheerios",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": "Dachshund",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "950 S. Grove Blvd., Kingsland, GA 31548",
+        "description": "ADOPTION PROCESS: The adoption process is simple and straight forward.\n\n\nPre-Screening Adoption Application here: https://tinyurl.com/adoptfromHSCC\n\nOur receptionists can usually approve/dis-approve...",
+        "photos": [],
+        "contact": {
+            "email": "hscc@tds.net",
+            "phone": "(912) 729-7141",
+            "address": {
+                "address1": "950 S. Grove Blvd.",
+                "address2": "P.O. Box 1270",
+                "city": "Kingsland",
+                "state": "GA",
+                "postcode": "31548",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Honeycomb",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": "Dachshund",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "950 S. Grove Blvd., Kingsland, GA 31548",
+        "description": "ADOPTION PROCESS: The adoption process is simple and straight forward.\n\n\nPre-Screening Adoption Application here: https://tinyurl.com/adoptfromHSCC\n\nOur receptionists can usually approve/dis-approve...",
+        "photos": [],
+        "contact": {
+            "email": "hscc@tds.net",
+            "phone": "(912) 729-7141",
+            "address": {
+                "address1": "950 S. Grove Blvd.",
+                "address2": "P.O. Box 1270",
+                "city": "Kingsland",
+                "state": "GA",
+                "postcode": "31548",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Love Bug",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "950 S. Grove Blvd., Kingsland, GA 31548",
+        "description": "ADOPTION PROCESS: The adoption process is simple and straight forward.\n\n\nPre-Screening Adoption Application here: https://tinyurl.com/adoptfromHSCC\n\nOur receptionists can usually approve/dis-approve...",
+        "photos": [],
+        "contact": {
+            "email": "hscc@tds.net",
+            "phone": "(912) 729-7141",
+            "address": {
+                "address1": "950 S. Grove Blvd.",
+                "address2": "P.O. Box 1270",
+                "city": "Kingsland",
+                "state": "GA",
+                "postcode": "31548",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Bunches of Oats",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": "Beagle",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "950 S. Grove Blvd., Kingsland, GA 31548",
+        "description": "ADOPTION PROCESS: The adoption process is simple and straight forward.\n\n\nPre-Screening Adoption Application here: https://tinyurl.com/adoptfromHSCC\n\nOur receptionists can usually approve/dis-approve...",
+        "photos": [],
+        "contact": {
+            "email": "hscc@tds.net",
+            "phone": "(912) 729-7141",
+            "address": {
+                "address1": "950 S. Grove Blvd.",
+                "address2": "P.O. Box 1270",
+                "city": "Kingsland",
+                "state": "GA",
+                "postcode": "31548",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Pepperoni",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "89 N 100 E, Heber City, UT 84032",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "kris@pflu.org",
+            "phone": "(435) 640-4752",
+            "address": {
+                "address1": "89 N 100 E",
+                "address2": null,
+                "city": "Heber City",
+                "state": "UT",
+                "postcode": "84032",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Velour",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Long Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "89 N 100 E, Heber City, UT 84032",
+        "description": "Velour prefers a quiet life. Not as rambunctious as her siblings",
+        "photos": [],
+        "contact": {
+            "email": "kris@pflu.org",
+            "phone": "(435) 640-4752",
+            "address": {
+                "address1": "89 N 100 E",
+                "address2": null,
+                "city": "Heber City",
+                "state": "UT",
+                "postcode": "84032",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "2024-02-049",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "616 Barrow Park Drive, Winder, GA 30680",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "animal@barrowga.org",
+            "phone": "(770) 307-3012",
+            "address": {
+                "address1": "616 Barrow Park Drive",
+                "address2": null,
+                "city": "Winder",
+                "state": "GA",
+                "postcode": "30680",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "2024-02-050* Banjo*",
+        "type": "Dog",
+        "breed": {
+            "primary": "Shepherd",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "616 Barrow Park Drive, Winder, GA 30680",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "animal@barrowga.org",
+            "phone": "(770) 307-3012",
+            "address": {
+                "address1": "616 Barrow Park Drive",
+                "address2": null,
+                "city": "Winder",
+                "state": "GA",
+                "postcode": "30680",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "2024-02-048",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "616 Barrow Park Drive, Winder, GA 30680",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "animal@barrowga.org",
+            "phone": "(770) 307-3012",
+            "address": {
+                "address1": "616 Barrow Park Drive",
+                "address2": null,
+                "city": "Winder",
+                "state": "GA",
+                "postcode": "30680",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Rocky**",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2509 S Loop 121, Belton, TX 76513",
+        "description": "Adopt don&amp;#39;t Shop",
+        "photos": [],
+        "contact": {
+            "email": "BCAS@bellcounty.texas.gov",
+            "phone": "(254) 933-6778",
+            "address": {
+                "address1": "2509 S Loop 121",
+                "address2": null,
+                "city": "Belton",
+                "state": "TX",
+                "postcode": "76513",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Ginger",
+        "type": "Dog",
+        "breed": {
+            "primary": "Labrador Retriever",
+            "secondary": "American Staffordshire Terrier",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Stamford, CT 06902",
+        "description": "*TO APPLY GO TO www.LuckyDogRefuge.com* (Petfinder messages will not be seen)\n\nGinger is a happy-go-lucky puppy who is looking for...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/1/?bust=1707513722&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/1/?bust=1707513722&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/1/?bust=1707513722&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/1/?bust=1707513722"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/2/?bust=1707513725&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/2/?bust=1707513725&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/2/?bust=1707513725&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/2/?bust=1707513725"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/3/?bust=1707513727&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/3/?bust=1707513727&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/3/?bust=1707513727&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/3/?bust=1707513727"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/4/?bust=1707513730&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/4/?bust=1707513730&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/4/?bust=1707513730&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/4/?bust=1707513730"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/5/?bust=1707513731&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/5/?bust=1707513731&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/5/?bust=1707513731&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672650/5/?bust=1707513731"
+            }
+        ],
+        "contact": {
+            "email": "info@luckydogrefuge.com",
+            "phone": "(203) 434-1402",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Stamford",
+                "state": "CT",
+                "postcode": "06902",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Gretchen",
+        "type": "Dog",
+        "breed": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "Mixed Breed",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Charlotte, MI 48813",
+        "description": "GRETCHEN\n\nThis girl is going to steal your heart and make her foster mommy shed several tears when she&amp;#39;s adopted....",
+        "photos": [],
+        "contact": {
+            "email": "nhpr@newhopepetrescue.com",
+            "phone": "(989) 640-0138",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Charlotte",
+                "state": "MI",
+                "postcode": "48813",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Spunky",
+        "type": "Cat",
+        "breed": {
+            "primary": "Russian Blue",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Lawrenceville, GA 30043",
+        "description": "Date of Birth: 7/20/23\nAdoption Fee: $150.00\nDate Posted: 2/10/24\n\nMeet adorable little Spunky! This little guy lives up to...",
+        "photos": [],
+        "contact": {
+            "email": "vicki@pippisplace.org",
+            "phone": "(404) 229-7442",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Lawrenceville",
+                "state": "GA",
+                "postcode": "30043",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Wafer",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "211 Kind Hearts Way, Burnsville, NC 28714",
+        "description": "Puppies 6 months and under are typically $200 and dogs from 7 months to 6 years are typically $100.00. The...",
+        "photos": [],
+        "contact": {
+            "email": "ychs@ccvn.com",
+            "phone": "(828) 682-9510",
+            "address": {
+                "address1": "211 Kind Hearts Way",
+                "address2": "PO Box 1016",
+                "city": "Burnsville",
+                "state": "NC",
+                "postcode": "28714",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Nilla",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "211 Kind Hearts Way, Burnsville, NC 28714",
+        "description": "Puppies 6 months and under are typically $200 and dogs from 7 months to 6 years are typically $100.00. The...",
+        "photos": [],
+        "contact": {
+            "email": "ychs@ccvn.com",
+            "phone": "(828) 682-9510",
+            "address": {
+                "address1": "211 Kind Hearts Way",
+                "address2": "PO Box 1016",
+                "city": "Burnsville",
+                "state": "NC",
+                "postcode": "28714",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Petra",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Medium Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Large",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "429 NW Scenic Drive, Grants Pass, OR 97526",
+        "description": "Hi there! My name is Petra and I am the most outgoing and loving girl around here! I can often...",
+        "photos": [],
+        "contact": {
+            "email": "connect@roguevalleyhumanesociety.org",
+            "phone": "(541) 479-5154",
+            "address": {
+                "address1": "429 NW Scenic Drive",
+                "address2": null,
+                "city": "Grants Pass",
+                "state": "OR",
+                "postcode": "97526",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Lansing",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Kingman, AZ 86401",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@feralcatwarriors.org",
+            "phone": "(865) 217-6532",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Kingman",
+                "state": "AZ",
+                "postcode": "86401",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Paw-Paw",
+        "type": "Dog",
+        "breed": {
+            "primary": "Treeing Walker Coonhound",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Senior",
+        "size": "Large",
+        "gender": "Male",
+        "color": {
+            "primary": "White / Cream",
+            "secondary": "Yellow / Tan / Blond / Fawn",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "136 Four Paws Lane, Summerville, SC 29483",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@dorchesterpaws.org",
+            "phone": "(843) 871-3820",
+            "address": {
+                "address1": "136 Four Paws Lane",
+                "address2": null,
+                "city": "Summerville",
+                "state": "SC",
+                "postcode": "29483",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Zeus",
+        "type": "Cat",
+        "breed": {
+            "primary": "Russian Blue",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Gray / Blue / Silver",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "136 Four Paws Lane, Summerville, SC 29483",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@dorchesterpaws.org",
+            "phone": "(843) 871-3820",
+            "address": {
+                "address1": "136 Four Paws Lane",
+                "address2": null,
+                "city": "Summerville",
+                "state": "SC",
+                "postcode": "29483",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Cleo",
+        "type": "Dog",
+        "breed": {
+            "primary": "Shepherd",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Senior",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": "Black",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "136 Four Paws Lane, Summerville, SC 29483",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@dorchesterpaws.org",
+            "phone": "(843) 871-3820",
+            "address": {
+                "address1": "136 Four Paws Lane",
+                "address2": null,
+                "city": "Summerville",
+                "state": "SC",
+                "postcode": "29483",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Lava Cake",
+        "type": "Cat",
+        "breed": {
+            "primary": "British Shorthair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Black",
+            "secondary": "Gray / Blue / Silver",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "136 Four Paws Lane, Summerville, SC 29483",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@dorchesterpaws.org",
+            "phone": "(843) 871-3820",
+            "address": {
+                "address1": "136 Four Paws Lane",
+                "address2": null,
+                "city": "Summerville",
+                "state": "SC",
+                "postcode": "29483",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Minky",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Black",
+            "secondary": "Brown / Chocolate",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "136 Four Paws Lane, Summerville, SC 29483",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@dorchesterpaws.org",
+            "phone": "(843) 871-3820",
+            "address": {
+                "address1": "136 Four Paws Lane",
+                "address2": null,
+                "city": "Summerville",
+                "state": "SC",
+                "postcode": "29483",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Cold Brew",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "White",
+            "secondary": "Gray / Blue / Silver",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "136 Four Paws Lane, Summerville, SC 29483",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@dorchesterpaws.org",
+            "phone": "(843) 871-3820",
+            "address": {
+                "address1": "136 Four Paws Lane",
+                "address2": null,
+                "city": "Summerville",
+                "state": "SC",
+                "postcode": "29483",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Tinky",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Gray / Blue / Silver",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "136 Four Paws Lane, Summerville, SC 29483",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "info@dorchesterpaws.org",
+            "phone": "(843) 871-3820",
+            "address": {
+                "address1": "136 Four Paws Lane",
+                "address2": null,
+                "city": "Summerville",
+                "state": "SC",
+                "postcode": "29483",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Brownie",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Black",
+            "secondary": "Brown / Chocolate",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2331 15th Street, Sarasota, FL 34237",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "tstoddard@hssc.org",
+            "phone": "(941) 955-4131",
+            "address": {
+                "address1": "2331 15th Street",
+                "address2": null,
+                "city": "Sarasota",
+                "state": "FL",
+                "postcode": "34237",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Salem",
+        "type": "Dog",
+        "breed": {
+            "primary": "Dachshund",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Bicolor",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Buckley, WA 98321",
+        "description": "Salem\n2yrs old \n15lbs\nSalem is special but also needs a special person with patience to teach him what love...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/3/?bust=1707252414&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/3/?bust=1707252414&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/3/?bust=1707252414&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/3/?bust=1707252414"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/1/?bust=1707252411&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/1/?bust=1707252411&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/1/?bust=1707252411&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/1/?bust=1707252411"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/2/?bust=1707252412&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/2/?bust=1707252412&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/2/?bust=1707252412&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/2/?bust=1707252412"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/4/?bust=1707252415&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/4/?bust=1707252415&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/4/?bust=1707252415&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70486718/4/?bust=1707252415"
+            }
+        ],
+        "contact": {
+            "email": "journeyhomewardanimalrescue@gmail.com",
+            "phone": null,
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Buckley",
+                "state": "WA",
+                "postcode": "98321",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Cupcake",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Tabby (Orange / Red)",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "556B Freeman Lane, Grass Valley, CA 95945",
+        "description": null,
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672621/1/?bust=1707513664&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672621/1/?bust=1707513664&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672621/1/?bust=1707513664&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672621/1/?bust=1707513664"
+            }
+        ],
+        "contact": {
+            "email": null,
+            "phone": "(530) 477-4630",
+            "address": {
+                "address1": "556B Freeman Lane",
+                "address2": null,
+                "city": "Grass Valley",
+                "state": "CA",
+                "postcode": "95945",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Nacho",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Senior",
+        "size": "Large",
+        "gender": "Male",
+        "color": {
+            "primary": "Orange / Red",
+            "secondary": "White",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Madison, WI 53704",
+        "description": "Meet Nacho! He&amp;#39;s estimated to be 8+ years and weighs about 12lbs. This chunky, hunky old guy LOVES a good...",
+        "photos": [],
+        "contact": {
+            "email": "info@underdogpetrescue.org",
+            "phone": "(608) 224-0018",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Madison",
+                "state": "WI",
+                "postcode": "53704",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Waylon",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "1006 Grigsby Hayes Court, Franklin, TN 37064",
+        "description": "Meet Waylon! Age: 2 Weight: 51lbs\nWaylon is a dog with personality for miles and the weirdest mix of dog...",
+        "photos": [],
+        "contact": {
+            "email": "animal.web@williamsoncounty-tn.gov",
+            "phone": "(615) 790-5590",
+            "address": {
+                "address1": "1006 Grigsby Hayes Court",
+                "address2": null,
+                "city": "Franklin",
+                "state": "TN",
+                "postcode": "37064",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Sophie",
+        "type": "Dog",
+        "breed": {
+            "primary": "Terrier",
+            "secondary": "Mixed Breed",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": "Gray / Blue / Silver",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "914 Whitfield Road, Freeport, FL 32439",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "adoptions@alaquaanimalrefuge.org",
+            "phone": "850-880-6399  ",
+            "address": {
+                "address1": "914 Whitfield Road",
+                "address2": null,
+                "city": "Freeport",
+                "state": "FL",
+                "postcode": "32439",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Margaret",
+        "type": "Dog",
+        "breed": {
+            "primary": "Terrier",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": "White / Cream",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "914 Whitfield Road, Freeport, FL 32439",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "adoptions@alaquaanimalrefuge.org",
+            "phone": "850-880-6399  ",
+            "address": {
+                "address1": "914 Whitfield Road",
+                "address2": null,
+                "city": "Freeport",
+                "state": "FL",
+                "postcode": "32439",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Mavis   **Available by Appointment!**",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "555 Sandy Bank Road, Media, PA 19063",
+        "description": "&quot;Meet Mavis: Your Spirited Canine Companion!\n\nAt just 11 months old, she&#039;s eager to explore the world around her and...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/3/?bust=1707513600&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/3/?bust=1707513600&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/3/?bust=1707513600&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/3/?bust=1707513600"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/1/?bust=1707513599&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/1/?bust=1707513599&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/1/?bust=1707513599&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/1/?bust=1707513599"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/2/?bust=1707513600&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/2/?bust=1707513600&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/2/?bust=1707513600&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/2/?bust=1707513600"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/4/?bust=1707513601&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/4/?bust=1707513601&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/4/?bust=1707513601&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/4/?bust=1707513601"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/5/?bust=1707513602&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/5/?bust=1707513602&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/5/?bust=1707513602&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/5/?bust=1707513602"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/6/?bust=1707513603&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/6/?bust=1707513603&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/6/?bust=1707513603&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672614/6/?bust=1707513603"
+            }
+        ],
+        "contact": {
+            "email": "Adoptions@providenceac.org",
+            "phone": "(610) 566-4575",
+            "address": {
+                "address1": "555 Sandy Bank Road",
+                "address2": null,
+                "city": "Media",
+                "state": "PA",
+                "postcode": "19063",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "DIANA",
+        "type": "Dog",
+        "breed": {
+            "primary": "Labrador Retriever",
+            "secondary": "American Bulldog",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": "Black",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "379 Sugar Run Road, Millerstown, PA 17062",
+        "description": "Meet Diana, one of four puppies that arrived this week. Puppies are dewormed and have their first vaccinations. They are...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/3/?bust=1707513590&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/3/?bust=1707513590&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/3/?bust=1707513590&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/3/?bust=1707513590"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/1/?bust=1707513589&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/1/?bust=1707513589&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/1/?bust=1707513589&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/1/?bust=1707513589"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/2/?bust=1707513589&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/2/?bust=1707513589&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/2/?bust=1707513589&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/2/?bust=1707513589"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/4/?bust=1707513590&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/4/?bust=1707513590&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/4/?bust=1707513590&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/4/?bust=1707513590"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/5/?bust=1707513591&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/5/?bust=1707513591&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/5/?bust=1707513591&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672613/5/?bust=1707513591"
+            }
+        ],
+        "contact": {
+            "email": "perrycountyanimalrescue@yahoo.com",
+            "phone": "(717) 589-3005",
+            "address": {
+                "address1": "379 Sugar Run Road",
+                "address2": null,
+                "city": "Millerstown",
+                "state": "PA",
+                "postcode": "17062",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Critter",
+        "type": "Dog",
+        "breed": {
+            "primary": "Staffordshire Bull Terrier",
+            "secondary": "Pit Bull Terrier",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "17379 Highway 9, Mountain View, AR 72560",
+        "description": "Critter is super sweet. He was picked up as a stray and brought to us for chasing pigs and not...",
+        "photos": [],
+        "contact": {
+            "email": "schs@yelcot.net",
+            "phone": "(870) 269-5200",
+            "address": {
+                "address1": "17379 Highway 9",
+                "address2": null,
+                "city": "Mountain View",
+                "state": "AR",
+                "postcode": "72560",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Nanu",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Senior",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Gray / Blue / Silver",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "100 Commons Way, Bridgewater, NJ 08807",
+        "description": "To meet our fabulous pets, stop by Somerset Regional Animal Shelter, 100 Commons Way in Bridgewater, NJ.\nWe&amp;#39;re open daily...",
+        "photos": [],
+        "contact": {
+            "email": "info@srasnj.org",
+            "phone": "(908) 725-0308",
+            "address": {
+                "address1": "100 Commons Way",
+                "address2": null,
+                "city": "Bridgewater",
+                "state": "NJ",
+                "postcode": "08807",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Mick",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "100 Commons Way, Bridgewater, NJ 08807",
+        "description": "To meet our fabulous pets, stop by Somerset Regional Animal Shelter, 100 Commons Way in Bridgewater, NJ.\nWe&amp;#39;re open daily...",
+        "photos": [],
+        "contact": {
+            "email": "info@srasnj.org",
+            "phone": "(908) 725-0308",
+            "address": {
+                "address1": "100 Commons Way",
+                "address2": null,
+                "city": "Bridgewater",
+                "state": "NJ",
+                "postcode": "08807",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Kallista",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Medium Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Orange / Red",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "100 Commons Way, Bridgewater, NJ 08807",
+        "description": "To meet our fabulous pets, stop by Somerset Regional Animal Shelter, 100 Commons Way in Bridgewater, NJ.\nWe&amp;#39;re open daily...",
+        "photos": [],
+        "contact": {
+            "email": "info@srasnj.org",
+            "phone": "(908) 725-0308",
+            "address": {
+                "address1": "100 Commons Way",
+                "address2": null,
+                "city": "Bridgewater",
+                "state": "NJ",
+                "postcode": "08807",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Peanut Butter",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Medium Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": "Orange / Red",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "100 Commons Way, Bridgewater, NJ 08807",
+        "description": "To meet our fabulous pets, stop by Somerset Regional Animal Shelter, 100 Commons Way in Bridgewater, NJ.\nWe&amp;#39;re open daily...",
+        "photos": [],
+        "contact": {
+            "email": "info@srasnj.org",
+            "phone": "(908) 725-0308",
+            "address": {
+                "address1": "100 Commons Way",
+                "address2": null,
+                "city": "Bridgewater",
+                "state": "NJ",
+                "postcode": "08807",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Jordyn",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "100 Commons Way, Bridgewater, NJ 08807",
+        "description": "To meet our fabulous pets, stop by Somerset Regional Animal Shelter, 100 Commons Way in Bridgewater, NJ.\nWe&amp;#39;re open daily...",
+        "photos": [],
+        "contact": {
+            "email": "info@srasnj.org",
+            "phone": "(908) 725-0308",
+            "address": {
+                "address1": "100 Commons Way",
+                "address2": null,
+                "city": "Bridgewater",
+                "state": "NJ",
+                "postcode": "08807",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Jericho",
+        "type": "Dog",
+        "breed": {
+            "primary": "Labrador Retriever",
+            "secondary": "Shepherd",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Large",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2216 Oberlin Road, Yreka, CA 96097",
+        "description": "The adoption fee for all dogs and puppies is $300\n\nAPPLY NOW",
+        "photos": [],
+        "contact": {
+            "email": null,
+            "phone": "(530) 842-0829",
+            "address": {
+                "address1": "2216 Oberlin Road",
+                "address2": "P. O. Box 1192",
+                "city": "Yreka",
+                "state": "CA",
+                "postcode": "96097",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Cream",
+        "type": "Small & Furry",
+        "breed": {
+            "primary": "Guinea Pig",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2960 Shafto Road, Tinton Falls, NJ 07753",
+        "description": "Cookies &amp;amp; Cream were surrendered when their family dynamic changed. They are cute little kids who are eager for nose...",
+        "photos": [],
+        "contact": {
+            "email": "Tintonfallsahs@ahsppz.org",
+            "phone": "(732) 922-0100",
+            "address": {
+                "address1": "2960 Shafto Road",
+                "address2": null,
+                "city": "Tinton Falls",
+                "state": "NJ",
+                "postcode": "07753",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Cookies",
+        "type": "Small & Furry",
+        "breed": {
+            "primary": "Guinea Pig",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2960 Shafto Road, Tinton Falls, NJ 07753",
+        "description": "Cookies &amp;amp; Cream were surrendered when their family dynamic changed. They are cute little kids who are eager for nose...",
+        "photos": [],
+        "contact": {
+            "email": "Tintonfallsahs@ahsppz.org",
+            "phone": "(732) 922-0100",
+            "address": {
+                "address1": "2960 Shafto Road",
+                "address2": null,
+                "city": "Tinton Falls",
+                "state": "NJ",
+                "postcode": "07753",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Jaco",
+        "type": "Dog",
+        "breed": {
+            "primary": "Shepherd",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2216 Oberlin Road, Yreka, CA 96097",
+        "description": "We ask for a $300 donation for all of our adult dogs. All of our adult dogs are neutered/spayed, microchipped,...",
+        "photos": [],
+        "contact": {
+            "email": null,
+            "phone": "(530) 842-0829",
+            "address": {
+                "address1": "2216 Oberlin Road",
+                "address2": "P. O. Box 1192",
+                "city": "Yreka",
+                "state": "CA",
+                "postcode": "96097",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Aspen",
+        "type": "Dog",
+        "breed": {
+            "primary": "Pit Bull Terrier",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Union Beach, NJ 07735",
+        "description": "You can fill out an adoption application online on our official website.Online Adoption Application\nAspen was left outside with her...",
+        "photos": [],
+        "contact": {
+            "email": "puppypower7035@yahoo.com",
+            "phone": null,
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Union Beach",
+                "state": "NJ",
+                "postcode": "07735",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Sparrky",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": "Tabby",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "White",
+            "secondary": "Tabby (Buff / Tan / Fawn)",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Battle Ground, IN 47920",
+        "description": "\u201cSparrky will soon be available for adoption and will need a home without young kiddos. Sparrky is 6 months old...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672536/1/?bust=1707513092&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672536/1/?bust=1707513092&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672536/1/?bust=1707513092&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672536/1/?bust=1707513092"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672536/2/?bust=1707513093&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672536/2/?bust=1707513093&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672536/2/?bust=1707513093&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672536/2/?bust=1707513093"
+            }
+        ],
+        "contact": {
+            "email": "LPAC.IN@yahoo.com",
+            "phone": "(765) 771-9915",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Battle Ground",
+                "state": "IN",
+                "postcode": "47920",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Zeus",
+        "type": "Dog",
+        "breed": {
+            "primary": "Pit Bull Terrier",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Gray / Blue / Silver",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "3521 Broadway Road, Pekin, IL 61554",
+        "description": "Zeus was relinquished to us after suffering GI upset that caused a prolapsed anus that needed to be surgically fixed...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70466930/1/?bust=1705964288&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70466930/1/?bust=1705964288&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70466930/1/?bust=1705964288&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70466930/1/?bust=1705964288"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70466930/2/?bust=1705964288&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70466930/2/?bust=1705964288&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70466930/2/?bust=1705964288&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70466930/2/?bust=1705964288"
+            }
+        ],
+        "contact": {
+            "email": "rescuedheartanimalhospital@ymail.com",
+            "phone": "(309) 346-2330",
+            "address": {
+                "address1": "3521 Broadway Road",
+                "address2": null,
+                "city": "Pekin",
+                "state": "IL",
+                "postcode": "61554",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Porsche",
+        "type": "Dog",
+        "breed": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "German Shepherd Dog",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Golden",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "24052 Meade Rd., Parsons, KS 67357",
+        "description": "Porsche is an 8 week old female Pit Bull/Shepherd mix who came in with her litter mates. She has lots...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672593/1/?bust=1707513453&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672593/1/?bust=1707513453&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672593/1/?bust=1707513453&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672593/1/?bust=1707513453"
+            }
+        ],
+        "contact": {
+            "email": "pals@wavewls.com",
+            "phone": "(620) 421-0445",
+            "address": {
+                "address1": "24052 Meade Rd.",
+                "address2": " (Intersection of Meade & Gabriel)",
+                "city": "Parsons",
+                "state": "KS",
+                "postcode": "67357",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Odie",
+        "type": "Dog",
+        "breed": {
+            "primary": "Belgian Shepherd / Malinois",
+            "secondary": "German Shepherd Dog",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Large",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2738 W. Caro Road, Caro, MI 48723",
+        "description": "Odie was an owner surrender due to no fault of this own. He does have a healing skin issue but...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672592/1/?bust=1707513445&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672592/1/?bust=1707513445&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672592/1/?bust=1707513445&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672592/1/?bust=1707513445"
+            }
+        ],
+        "contact": {
+            "email": "tcac@tuscolacounty.org",
+            "phone": "(989) 672-3863",
+            "address": {
+                "address1": "2738 W. Caro Road",
+                "address2": null,
+                "city": "Caro",
+                "state": "MI",
+                "postcode": "48723",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Hazel ",
+        "type": "Dog",
+        "breed": {
+            "primary": "Mixed Breed",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "555 Sandy Bank Road, Media, PA 19063",
+        "description": "&quot;Meet Hazel!\n\nAt just six months old, she&#039;s still discovering the world around her and is eager to explore everything...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/1/?bust=1707513414&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/1/?bust=1707513414&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/1/?bust=1707513414&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/1/?bust=1707513414"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/2/?bust=1707513415&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/2/?bust=1707513415&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/2/?bust=1707513415&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/2/?bust=1707513415"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/3/?bust=1707513415&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/3/?bust=1707513415&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/3/?bust=1707513415&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/3/?bust=1707513415"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/4/?bust=1707513416&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/4/?bust=1707513416&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/4/?bust=1707513416&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672591/4/?bust=1707513416"
+            }
+        ],
+        "contact": {
+            "email": "Adoptions@providenceac.org",
+            "phone": "(610) 566-4575",
+            "address": {
+                "address1": "555 Sandy Bank Road",
+                "address2": null,
+                "city": "Media",
+                "state": "PA",
+                "postcode": "19063",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Glitter",
+        "type": "Dog",
+        "breed": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Mixed Breed",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Large",
+        "gender": "Female",
+        "color": {
+            "primary": "Yellow / Tan / Blond / Fawn",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Mendham, NJ 07945",
+        "description": "Glitter is a friendly, outgoing, playful 12 week old German Shepherd mix puppy who currently weighs about 18 lbs. This...",
+        "photos": [
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/3/?bust=1707513414&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/3/?bust=1707513414&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/3/?bust=1707513414&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/3/?bust=1707513414"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/1/?bust=1707513408&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/1/?bust=1707513408&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/1/?bust=1707513408&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/1/?bust=1707513408"
+            },
+            {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/2/?bust=1707513414&width=100",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/2/?bust=1707513414&width=300",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/2/?bust=1707513414&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70672585/2/?bust=1707513414"
+            }
+        ],
+        "contact": {
+            "email": "bdrpinfo@gmail.com",
+            "phone": null,
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Mendham",
+                "state": "NJ",
+                "postcode": "07945",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Oakley",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "14175 SW Galbreath Drive, Sherwood, OR 97140",
+        "description": "**Svelte - Active - Affectionate** Oakley&amp;#39;s adoption fee is $225. For more information on Cat Adoption Team&amp;#39;s pricing and policies,...",
+        "photos": [],
+        "contact": {
+            "email": "contactus@catadoptionteam.org",
+            "phone": "(503) 925-8903",
+            "address": {
+                "address1": "14175 SW Galbreath Drive",
+                "address2": null,
+                "city": "Sherwood",
+                "state": "OR",
+                "postcode": "97140",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Fred",
+        "type": "Cat",
+        "breed": {
+            "primary": "Tabby",
+            "secondary": "Domestic Short Hair",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2740 Festival Ln, Dublin, OH 43017",
+        "description": "Fred is a quiet guy who takes a moment to know you and then would like to request alllll the...",
+        "photos": [],
+        "contact": {
+            "email": "adopt@colonycats.org",
+            "phone": "(614) 570-0471",
+            "address": {
+                "address1": "2740 Festival Ln",
+                "address2": null,
+                "city": "Dublin",
+                "state": "OH",
+                "postcode": "43017",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "24-02-0448 Princess",
+        "type": "Dog",
+        "breed": {
+            "primary": "Cocker Spaniel",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "779 Industiral Blvd North, Dallas, GA 30132",
+        "description": "Primary Color: Black Secondary Color: White Weight: 19lbs",
+        "photos": [],
+        "contact": {
+            "email": null,
+            "phone": "(770) 445-1511",
+            "address": {
+                "address1": "779 Industiral Blvd North",
+                "address2": null,
+                "city": "Dallas",
+                "state": "GA",
+                "postcode": "30132",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Jonathan",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Black & White / Tuxedo",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "571 NE 44th Street, Oakland Park, FL 33334",
+        "description": "YOU CAN MEET HIM AT OUR CENTER AT 571 NE44TH ST. (NW CORNER OF PROSPECT (44TH AND 6TH) IN OAKLAND...",
+        "photos": [],
+        "contact": {
+            "email": "animalaidinc@aol.com",
+            "phone": "(754) 223-5378",
+            "address": {
+                "address1": "571 NE 44th Street",
+                "address2": "All of South Florida",
+                "city": "Oakland Park",
+                "state": "FL",
+                "postcode": "33334",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Private Idaho",
+        "type": "Dog",
+        "breed": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "Mixed Breed",
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Medium",
+        "gender": "Male",
+        "color": {
+            "primary": "Gray / Blue / Silver",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "845 West Ridge Road, Gainesville, GA 30501",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "AdoptionCenter@hsnega.org",
+            "phone": "(770) 532-6617",
+            "address": {
+                "address1": "845 West Ridge Road",
+                "address2": null,
+                "city": "Gainesville",
+                "state": "GA",
+                "postcode": "30501",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Graceland- 020907S",
+        "type": "Dog",
+        "breed": {
+            "primary": "Black Labrador Retriever",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Black",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "2795 Cliff Gookin Blvd, Tupelo, MS 38801",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "placement@tupeloleehumane.org",
+            "phone": "(662) 205-4221",
+            "address": {
+                "address1": "2795 Cliff Gookin Blvd",
+                "address2": null,
+                "city": "Tupelo",
+                "state": "MS",
+                "postcode": "38801",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Riley",
+        "type": "Dog",
+        "breed": {
+            "primary": "German Shepherd Dog",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "142 Kindness Court, South Burlington, VT 05403",
+        "description": "Meet Riley!\n\nShe is bold and curious, affectionate, bouncy, sociable and playful, just to name a few of her amazing...",
+        "photos": [],
+        "contact": {
+            "email": "bestfriends@hsccvt.org",
+            "phone": "(802) 862-0135",
+            "address": {
+                "address1": "142 Kindness Court",
+                "address2": null,
+                "city": "South Burlington",
+                "state": "VT",
+                "postcode": "05403",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Jessica",
+        "type": "Dog",
+        "breed": {
+            "primary": "Yorkshire Terrier",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": "Yellow / Tan / Blond / Fawn",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Tampa, FL 33607",
+        "description": "Yes...I&amp;#39;m looking at you! You know I can be your best friend! \nI came in as a stray, but I&amp;#39;m...",
+        "photos": [],
+        "contact": {
+            "email": "adopt@humanesocietytampa.org",
+            "phone": "(813) 876-7138",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Tampa",
+                "state": "FL",
+                "postcode": "33607",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Cinnamon",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": "White",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Durham, NC 27709",
+        "description": "Cinnamon is a very sweet boy. He&amp;#39;s an energetic, loving kitten looking for a fun, comforting place to call home....",
+        "photos": [],
+        "contact": {
+            "email": "petfinder@animalrescue.net",
+            "phone": "(919) 403-2221",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Durham",
+                "state": "NC",
+                "postcode": "27709",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "BCH-Stray-bc817",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Medium Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Young",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "128 S State Road 135, Nashville, IN 47448",
+        "description": "Hi, thanks for your interest in adopting. A volunteer will add my photos and bio as soon as possible. In...",
+        "photos": [],
+        "contact": {
+            "email": "adoptbchs@gmail.com",
+            "phone": "812-988-7362  ",
+            "address": {
+                "address1": "128 S State Road 135",
+                "address2": null,
+                "city": "Nashville",
+                "state": "IN",
+                "postcode": "47448",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Sully",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Senior",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Black",
+            "secondary": "White",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Long Beach, CA 90803",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "ladan@friendsofnormie.com",
+            "phone": "(949) 933-3442",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Long Beach",
+                "state": "CA",
+                "postcode": "90803",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Roscoe",
+        "type": "Dog",
+        "breed": {
+            "primary": "Beagle",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Small",
+        "gender": "Male",
+        "color": {
+            "primary": "Brown / Chocolate",
+            "secondary": "Black",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "None, Chesapeake, VA 23320",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "Office@rebasrescue.org",
+            "phone": "(757) 447-9770",
+            "address": {
+                "address1": null,
+                "address2": null,
+                "city": "Chesapeake",
+                "state": "VA",
+                "postcode": "23320",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Rex",
+        "type": "Dog",
+        "breed": {
+            "primary": "Pit Bull Terrier",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Large",
+        "gender": "Male",
+        "color": {
+            "primary": "Gray / Blue / Silver",
+            "secondary": "Brindle",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "710 N Napa Street, Spokane, WA 99202",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "miracles@spokanimal.org",
+            "phone": "(509) 534-8133",
+            "address": {
+                "address1": "710 N Napa Street",
+                "address2": null,
+                "city": "Spokane",
+                "state": "WA",
+                "postcode": "99202",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Star",
+        "type": "Cat",
+        "breed": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+        },
+        "age": "Baby",
+        "size": "Small",
+        "gender": "Female",
+        "color": {
+            "primary": "Black",
+            "secondary": null,
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "4451 Pine Forest Rd, Milton, FL 32583",
+        "description": null,
+        "photos": [],
+        "contact": {
+            "email": "animals@santarosa.fl.gov",
+            "phone": "(850) 983-4680",
+            "address": {
+                "address1": "4451 Pine Forest Rd",
+                "address2": null,
+                "city": "Milton",
+                "state": "FL",
+                "postcode": "32583",
+                "country": "US"
+            }
+        }
+    },
+    {
+        "name": "Beauty",
+        "type": "Dog",
+        "breed": {
+            "primary": "Rottweiler",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+        },
+        "age": "Adult",
+        "size": "Medium",
+        "gender": "Female",
+        "color": {
+            "primary": "Black",
+            "secondary": "Yellow / Tan / Blond / Fawn",
+            "tertiary": null
+        },
+        "status": "adoptable",
+        "location": "6232 E. 60th Street (60th & Sheridan), Tulsa, OK 74133",
+        "description": "Hi, I&amp;#39;m Beauty. I love to go on walks and car rides. People like to tell me I&amp;#39;m a big...",
+        "photos": [],
+        "contact": {
+            "email": "fido@tulsapets.com",
+            "phone": "(918) 495-3647",
+            "address": {
+                "address1": "6232 E. 60th Street (60th & Sheridan)",
+                "address2": null,
+                "city": "Tulsa",
+                "state": "OK",
+                "postcode": "74133",
+                "country": "US"
+            }
+        }
+    }
+]
