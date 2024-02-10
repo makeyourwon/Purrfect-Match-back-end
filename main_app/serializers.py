@@ -23,19 +23,24 @@ class UserSerializer(serializers.ModelSerializer):
         )
         Profile.objects.create(user=user, **profile_data)
         return user
-
-class ProfileSerializer(serializers.ModelSerializer):
-    user = serializers.PrimaryKeyRelatedField(read_only=True)
-    class Meta:
-        model = Profile
-        fields = '__all__'
-
+    
 class AnimalSerializer(serializers.ModelSerializer):
     class Meta:
         model = Animal
         fields = '__all__'
 
+    
 class FavoriteSerializer(serializers.ModelSerializer):
+    animals = AnimalSerializer(many=True, read_only=True)
     class Meta:
         model = Favorite
+        fields = ['id', 'animals',]
+
+class ProfileSerializer(serializers.ModelSerializer):
+    user = serializers.PrimaryKeyRelatedField(read_only=True)
+    favorites = FavoriteSerializer()
+    class Meta:
+        model = Profile
         fields = '__all__'
+
+

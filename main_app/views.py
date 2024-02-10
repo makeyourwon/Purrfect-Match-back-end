@@ -7,7 +7,18 @@ from django.contrib.auth.models import User
 from .models import  Animal, Favorite, Profile
 from .serializers import AnimalSerializer, FavoriteSerializer, ProfileSerializer, UserSerializer
 from rest_framework.exceptions import PermissionDenied
+from django.shortcuts import get_object_or_404
 
+# add to favorites
+class AddToFavoriteView(APIView):
+    def post(self,request,pk):
+        profile = request.user.profile
+        animal = get_object_or_404(Animal, pk=pk)
+        if not profile.favorites:
+            profile.favorites = Favorite.objects.create()
+            profile.save()
+        profile.favorites.animals.add(animal)
+        return Response(status=status.HTTP_204_NO_CONTENT)
 
 # user registration
 class CreateUserView(generics.CreateAPIView):
