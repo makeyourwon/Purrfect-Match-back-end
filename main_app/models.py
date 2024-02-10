@@ -1,12 +1,16 @@
 from django.db import models
+from django.contrib.auth.models import User
+from django.utils import timezone
 import json
 
 # Create your models here.
 class Profile(models.Model):
+  user = models.OneToOneField(User, on_delete=models.CASCADE)
   name = models.CharField(max_length=100)
   age = models.IntegerField()
   location = models.CharField(max_length=50)
   phone = models.IntegerField()
+  favorites = models.OneToOneField('Favorite', on_delete=models.CASCADE, null=True, blank=True)
   #add user model here
   def __str__(self):
     return self.name
@@ -28,9 +32,9 @@ class Animal(models.Model):
 
     def __str__(self):
      return self.name
-   
 
 class Favorite(models.Model):
+    animals = models.ManyToManyField(Animal)
 
-     animalId = models.ForeignKey(Animal, on_delete=models.CASCADE,)
-
+    def __str__(self):
+        return self.animals.name
