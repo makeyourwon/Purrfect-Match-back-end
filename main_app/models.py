@@ -1,8 +1,10 @@
 from django.db import models
+from django.contrib.auth.models import User
 import json
 
 # Create your models here.
 class Profile(models.Model):
+  user = models.OneToOneField(User, on_delete=models.CASCADE)
   name = models.CharField(max_length=100)
   age = models.IntegerField()
   location = models.CharField(max_length=50)
@@ -31,6 +33,5 @@ class Animal(models.Model):
    
 
 class Favorite(models.Model):
-
      animalId = models.ForeignKey(Animal, on_delete=models.CASCADE,)
 
