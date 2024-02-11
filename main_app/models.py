@@ -10,7 +10,7 @@ class Profile(models.Model):
   age = models.IntegerField()
   location = models.CharField(max_length=50)
   phone = models.IntegerField()
-  favorites = models.OneToOneField('Favorite', on_delete=models.CASCADE, null=True, blank=True)
+  favorites = models.OneToOneField('Favorite', on_delete=models.CASCADE, null=True, blank=True, related_name='profile')
   #add user model here
   def __str__(self):
     return self.name
@@ -37,4 +37,4 @@ class Favorite(models.Model):
     animals = models.ManyToManyField(Animal)
 
     def __str__(self):
-        return self.animals.name
+        return ', '.join([animal.name for animal in self.animals.all()])

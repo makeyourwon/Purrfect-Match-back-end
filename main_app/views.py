@@ -16,9 +16,14 @@ class AddToFavoriteView(APIView):
         animal = get_object_or_404(Animal, pk=pk)
         if not profile.favorites:
             profile.favorites = Favorite.objects.create()
+            print(profile.favorites)
             profile.save()
         profile.favorites.animals.add(animal)
-        return Response(status=status.HTTP_204_NO_CONTENT)
+        # return Response(status=status.HTTP_204_NO_CONTENT)
+        favorite_animals = profile.favorites.animals.all()
+        serializer = AnimalSerializer(favorite_animals, many=True)
+
+        return Response(serializer.data, status=status.HTTP_200_OK)
 
 # user registration
 class CreateUserView(generics.CreateAPIView):
