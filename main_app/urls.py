@@ -1,6 +1,5 @@
 from django.urls import path
-from .views import Home, AnimalList, AnimalDetail, FavoriteList, FavoriteDetail, CreateUserView, LoginView, VerifyUserView, ProfileDetail, AddToFavoriteView
-# RemoveFromFavoriteView
+from .views import Home, AnimalList, AnimalDetail, FavoriteList, FavoriteDetail, CreateUserView, LoginView, VerifyUserView, ProfileDetail, AddToFavoriteView, RemoveFromFavoriteView
 
 
 urlpatterns = [
@@ -14,5 +13,5 @@ urlpatterns = [
     path('favorites/', FavoriteList.as_view(), name='favorite_list'),
     path('favorites/<int:pk>/', FavoriteDetail.as_view(), name='favorites_detail'),
     path('favorites/add/<int:pk>/', AddToFavoriteView.as_view(), name='add_to_favorites'),
-    # path('favorites/remove/<int:pk>/', RemoveFromFavoriteView.as_view(), name='remove_from_favorites'),
+    path('favorites/remove/<int:pk>/', RemoveFromFavoriteView.as_view(), name='remove_from_favorites'),
 ]

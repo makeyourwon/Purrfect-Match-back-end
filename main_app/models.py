@@ -37,4 +37,5 @@ class Favorite(models.Model):
     animals = models.ManyToManyField(Animal)
 
     def __str__(self):
-        return ', '.join([animal.name for animal in self.animals.all()])
+        # return ', '.join([animal.name for animal in self.animals.all()])
+        return f"Favorite ID: {self.id}"

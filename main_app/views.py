@@ -25,6 +25,17 @@ class AddToFavoriteView(APIView):
 
         return Response(serializer.data, status=status.HTTP_200_OK)
 
+# remove from favorite
+class RemoveFromFavoriteView(APIView):
+    def post(self,request,pk):
+        profile = request.user.profile
+        animal = get_object_or_404(Animal, pk=pk)
+        if profile.favorites:
+            profile.favorites.animals.remove(animal)
+            return Response({'message': f'Animal {animal.name} removed from favorites'}, status=status.HTTP_200_OK)
+        else:
+            return Response({'message': 'No favorites list found'}, status=status.HTTP_404_NOT_FOUND)
+
 # user registration
 class CreateUserView(generics.CreateAPIView):
     queryset = User.objects.all()
