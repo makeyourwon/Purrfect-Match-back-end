@@ -7,13 +7,13 @@ import json
 class Profile(models.Model):
   user = models.OneToOneField(User, on_delete=models.CASCADE)
   name = models.CharField(max_length=100)
-  age = models.IntegerField()
+  age = models.IntegerField(null=True, blank=True)
   location = models.CharField(max_length=50)
-  phone = models.IntegerField()
+  phone = models.IntegerField(null=True, blank=True)
   favorites = models.OneToOneField('Favorite', on_delete=models.CASCADE, null=True, blank=True, related_name='profile')
   #add user model here
   def __str__(self):
-    return self.name
+    return str(self.id)
   
 
 class Animal(models.Model):
@@ -38,4 +38,4 @@ class Favorite(models.Model):
 
     def __str__(self):
         # return ', '.join([animal.name for animal in self.animals.all()])
-        return f"Favorite ID: {self.id}"
+        return f" {self.id}"

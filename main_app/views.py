@@ -120,8 +120,23 @@ class AnimalDetail(generics.RetrieveUpdateDestroyAPIView):
     lookup_field = 'pk'
 
 class FavoriteList(generics.ListCreateAPIView):
-    queryset = Favorite.objects.all()
+    # queryset = Favorite.objects.all()
+    permissions_classes = [permissions.IsAuthenticated]
     serializer_class = FavoriteSerializer
+
+    def get_queryset(self):
+        user = self.request.user
+        profile = Profile.objects.get(user=user)
+        if profile.user != user:
+            raise PermissionDenied('You do not have permission to view this favorite list')
+        else:
+            profile = get_object_or_404(Profile, user=user)
+            return Favorite.objects.filter(profile=profile)
+
+
+    # def get_queryset(self):
+    #     profile = self.request.profile
+    #     return Favorite.objects.filter(profile=profile)
 
 class FavoriteDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Favorite.objects.all()
