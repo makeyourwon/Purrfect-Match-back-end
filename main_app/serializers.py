@@ -5,12 +5,6 @@ from django.contrib.auth.models import User
 
 class UserSerializer(serializers.ModelSerializer):
     password = serializers.CharField(write_only=True)
-    # profile_name = serializers.CharField(source='profile.name')
-    # profile_age = serializers.IntegerField(source='profile.age',default=None)
-    # profile_location = serializers.CharField(source='profile.location',default='')
-    # profile_phone = serializers.IntegerField(source='profile.phone',default=None)
-    # profile_name = serializers.CharField(source='profile.name', default='')
-
     class Meta:
         model = User
         fields = ['id', 'username', 'email', 'password']

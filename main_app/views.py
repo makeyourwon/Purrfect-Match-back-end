@@ -8,14 +8,17 @@ from .models import  Animal, Favorite, Profile
 from .serializers import AnimalSerializer, FavoriteSerializer, ProfileSerializer, UserSerializer
 from rest_framework.exceptions import PermissionDenied
 from django.shortcuts import get_object_or_404
+from django_filters.rest_framework import DjangoFilterBackend
 
 # add to favorites
 class AddToFavoriteView(APIView):
+    permission_classes = [permissions.IsAuthenticated]
     def post(self,request,pk):
-        profile = request.user.profile
+        user = self.request.user
+        profile = Profile.objects.get(user=user)
         animal = get_object_or_404(Animal, pk=pk)
         if not profile.favorites:
-            profile.favorites = Favorite.objects.create()
+            profile.favorites = Favorite.objects.create(profile=profile)
             print(profile.favorites)
             profile.save()
         profile.favorites.animals.add(animal)
@@ -27,8 +30,11 @@ class AddToFavoriteView(APIView):
 
 # remove from favorite
 class RemoveFromFavoriteView(APIView):
+    permission_classes = [permissions.IsAuthenticated]
+
     def post(self,request,pk):
-        profile = request.user.profile
+        user = self.request.user
+        profile = Profile.objects.get(user=user)
         animal = get_object_or_404(Animal, pk=pk)
         if profile.favorites:
             profile.favorites.animals.remove(animal)
@@ -87,34 +93,42 @@ class VerifyUserView(APIView):
     
 # User Profile
 class ProfileDetail(generics.RetrieveUpdateDestroyAPIView):
-    # queryset = Profile.objects.all()
     serializer_class = ProfileSerializer
-    lookup_field = 'id'
+    permissions_classes = [permissions.IsAuthenticated]
+    lookup_field = 'pk'
 
     def get_queryset(self):
+        # Fetch the profile for the authenticated user
         user = self.request.user
         return Profile.objects.filter(user=user)
-    
-    ## return to auth repo to implement this to work with favorite list when implemented.
-    # def retrieve(self, request, *args, **kwargs):
+
+    def get_object(self):
+        queryset = self.get_queryset()
+        # Get the profile object for the logged-in user
+        profile = get_object_or_404(queryset)
+        return profile
+
     def perform_update(self, serializer):
-        user = self.request.user
-        profile = Profile.objects.get(user=user)
-        if profile.user != user:
+        profile = self.get_object()
+        if profile.user != self.request.user:
             raise PermissionDenied('You do not have permission to update this profile')
         serializer.save()
-
-
+# Home Page
 class Home(APIView):
     def get(self, request):
         content = {'message': 'Welcome to Purrfect Match!'}
         return Response(content)
+
     
 class AnimalList(generics.ListCreateAPIView):
+    permission_classes = [permissions.IsAuthenticated]
     queryset = Animal.objects.all()
     serializer_class = AnimalSerializer
+    filter_backends = [DjangoFilterBackend]
+    filterset_fields = ['type', 'age']
 
 class AnimalDetail(generics.RetrieveUpdateDestroyAPIView):
+    permission_classes = [permissions.IsAuthenticated]
     queryset = Animal.objects.all()
     serializer_class = AnimalSerializer
     lookup_field = 'pk'
@@ -132,11 +146,6 @@ class FavoriteList(generics.ListCreateAPIView):
         else:
             profile = get_object_or_404(Profile, user=user)
             return Favorite.objects.filter(profile=profile)
-
-
-    # def get_queryset(self):
-    #     profile = self.request.profile
-    #     return Favorite.objects.filter(profile=profile)
 
 class FavoriteDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Favorite.objects.all()
