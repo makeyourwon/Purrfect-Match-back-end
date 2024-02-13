@@ -9,6 +9,7 @@ from .serializers import AnimalSerializer, FavoriteSerializer, ProfileSerializer
 from rest_framework.exceptions import PermissionDenied
 from django.shortcuts import get_object_or_404
 from django_filters.rest_framework import DjangoFilterBackend
+from .filters import AnimalFilter
 
 # add to favorites
 class AddToFavoriteView(APIView):
@@ -125,7 +126,7 @@ class AnimalList(generics.ListCreateAPIView):
     queryset = Animal.objects.all()
     serializer_class = AnimalSerializer
     filter_backends = [DjangoFilterBackend]
-    filterset_fields = ['type', 'age']
+    filterset_class = AnimalFilter
 
 class AnimalDetail(generics.RetrieveUpdateDestroyAPIView):
     permission_classes = [permissions.IsAuthenticated]
