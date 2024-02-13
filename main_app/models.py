@@ -9,7 +9,7 @@ class Profile(models.Model):
   name = models.CharField(max_length=100)
   age = models.IntegerField(null=True, blank=True)
   location = models.CharField(max_length=50)
-  phone = models.IntegerField(null=True, blank=True)
+  phone = models.CharField(null=True, blank=True)
   favorites = models.OneToOneField('Favorite', on_delete=models.CASCADE, null=True, blank=True, related_name='profile')
   #add user model here
   def __str__(self):
