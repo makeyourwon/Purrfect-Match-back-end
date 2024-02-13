@@ -7,13 +7,13 @@ class AnimalFilter(django_filters.FilterSet):
     class Meta:
         model = Animal
         fields = {
-            'name':['exact','icontains'],
-            'type':['exact','icontains'],
-            'age':['exact','icontains'],
-            'size':['exact','icontains'],
-            'gender':['exact','icontains'],
-            'status':['exact','icontains'],
-            'location':['exact','icontains'],
+            'name':['icontains'],
+            'type':['icontains'],
+            'age':['icontains'],
+            'size':['icontains'],
+            'gender':['icontains'],
+            'status':['icontains'],
+            'location':['icontains'],
             
         }
 
