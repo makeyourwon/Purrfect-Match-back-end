@@ -148,6 +148,7 @@ class FavoriteList(generics.ListCreateAPIView):
             profile = get_object_or_404(Profile, user=user)
             return Favorite.objects.filter(profile=profile)
 
+#no longer use this view. Instead, favoriteList does the job.
 class FavoriteDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Favorite.objects.all()
     serializer_class = FavoriteSerializer
