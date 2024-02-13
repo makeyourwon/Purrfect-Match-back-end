@@ -1,6 +1,6 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
-from rest_framework import generics, status, permissions
+from rest_framework import generics, status, permissions, filters
 from rest_framework_simplejwt.tokens import RefreshToken
 from django.contrib.auth import authenticate
 from django.contrib.auth.models import User
@@ -125,8 +125,9 @@ class AnimalList(generics.ListCreateAPIView):
     permission_classes = [permissions.IsAuthenticated]
     queryset = Animal.objects.all()
     serializer_class = AnimalSerializer
-    filter_backends = [DjangoFilterBackend]
+    filter_backends = [DjangoFilterBackend, filters.SearchFilter,]
     filterset_class = AnimalFilter
+    search_fields = ['name', 'id',]
 
 class AnimalDetail(generics.RetrieveUpdateDestroyAPIView):
     permission_classes = [permissions.IsAuthenticated]
