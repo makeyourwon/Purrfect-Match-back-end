@@ -11,11 +11,15 @@ PurrfectMatch is built for helping animal adoption. You can view and add the fur
 
 
 # Team
-- Backend: Kia, Shan
-- Frontend: Joshua, Kevin
+- Backend:
+  - Kia: https://github.com/Kdrummmond625
+  - Shan: https://github.com/makeyourwon
+- Frontend:
+  - Joshua: https://github.com/kratos238
+  - Kevin: https://github.com/Kevelaz
 
 # Technique
-HTML, Django, React, Bootstrap, JWT
+- Django, Python, Node, CORS, JSON, pet-finder API
 
 # User Stories
 Registration and Login: 
@@ -66,39 +70,38 @@ Favorites/Bookmarking:
 #### User Authentication, Registration, and Token Management
 | Function              | URL                                  | Method    | Description                    |
 |-----------------------|--------------------------------------|-----------|--------------------------------|
-| User registration     | /purrmatch/user/register/            | POST      | User registration.             |
-| User login            | /purrmatch/user/login/               | POST      | User login, returns tokens.    |
-| Refresh access token  | /purrmatch/user/token/refresh/       | POST      | Refresh access token.          |
+| User registration     | /register/            | POST      | User registration.             |
+| User login            | /login/               | POST      | User login, returns tokens.    |
+| Refresh access token  | /refresh/       | POST      | Refresh access token.          |
 #### User Profile Management
 | Function               | URL                                   | Method    | Description                   |
 |------------------------|---------------------------------------|-----------|-------------------------------|
-| Fetch profile details  | /purrmatch/user/profile/              | GET       | Fetch user's profile details. |
-| Update profile information | /purrmatch/user/profile/update/   | PUT/PATCH | Update profile information.   |
+| Fetch profile details  | /profile/              | GET/PUT      | Fetch user's profile details and update profile info. |
 #### Animal Listings and Filters
 | Function             | URL                              | Method | Description                        |
 |----------------------|----------------------------------|--------|------------------------------------|
-| List all animals     | /purrmatch/animals/              | GET    | List all animals with filters.     |
-| Animal details by ID | /purrmatch/animals/<int:id>/     | GET    | Animal details by ID.              |
+| List all animals     | animals/              | GET    | List all animals with filters.     |
+| Animal details by ID(primary key) | /animals/pk/     | GET    | Get animal details by ID.              |
 #### Favorites Management
 | Function                   | URL                                      | Method | Description                      |
 |----------------------------|------------------------------------------|--------|----------------------------------|
-| List favorited animals     | /purrmatch/favorites/                    | GET    | List user's favorited animals.   |
-| Add an animal to favorites | /purrmatch/favorites/add/                | POST   | Add an animal to favorites.      |
-| Remove an animal from favorites | /purrmatch/favorites/remove/<int:id>/ | DELETE | Remove an animal from favorites. |
+| List favorited animals     |/favorites/                    | GET    | List single user's favorited animals.   |
+| Add an animal to favorites | /favorites/add/pk/                | POST   | Add an animal to one profile's favorites.      |
+| Remove an animal from favorites | /favorites/remove/pk/ | POST(DELETE) | Remove an animal from favorites. |
 
 # Trello
 https://trello.com/b/VbdaIAZh/purrrfect-match
 
 # Timeline
 
-|Date | Todo |
-|-----|------|
-|2/9  | Create Proposal|
-|2/12 | Complete Scaffolding|
-|2/12 | Get API Key for 3rd party integration|
-|2/12 | Test Routes BackEnd|
-|2/13 | Test Authentication|
-|2/14 | Deployment|
+|Date | Todo | Status|
+|-----|------|-------|
+|2/9  | Create Proposal| Complete|
+|2/12 | Complete Scaffolding| Complete |
+|2/12 | Get API Key for 3rd party integration| Complete|
+|2/12 | Test Routes BackEnd| Complete |
+|2/13 | Test Authentication| Complete on 2/12 |
+|2/14 | Deployment| Complete |
 |2/15 | Style Project|
 
 
