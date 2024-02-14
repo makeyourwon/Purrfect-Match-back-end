@@ -19,7 +19,9 @@ class AddToFavoriteView(APIView):
         profile = Profile.objects.get(user=user)
         animal = get_object_or_404(Animal, pk=pk)
         if not profile.favorites:
-            profile.favorites = Favorite.objects.create(profile=profile)
+            # profile.favorites = Favorite.objects.create(profile=profile)
+            favorite = Favorite.objects.create()
+            profile.favorites = favorite
             print(profile.favorites)
             profile.save()
         profile.favorites.animals.add(animal)
