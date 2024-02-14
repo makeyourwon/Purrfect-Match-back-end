@@ -45,7 +45,8 @@ Favorites/Bookmarking:
 
 
 # ERD
-![PurrfectMatch ERD](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/f1b835bb-5ed8-4590-8ef1-6ab88dc88e07)
+![PurrfectMatch ERD](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/5d9c7997-c3c7-4239-83d9-f01ef219362d)
+
 
 
 # Component Hierarchy Diagram
