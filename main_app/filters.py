@@ -8,10 +8,10 @@ class AnimalFilter(django_filters.FilterSet):
         model = Animal
         fields = {
             'name':['icontains'],
-            'type':['icontains'],
-            'age':['icontains'],
+            'type':['exact','icontains'],
+            'age':['exact','icontains'],
             'size':['icontains'],
-            'gender':['icontains'],
+            'gender':['exact','icontains'],
             'status':['icontains'],
             'location':['icontains'],
             
