@@ -34,7 +34,8 @@ Features
 
 
 # ERD
-![PurrfectMatch ERD](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/5d9c7997-c3c7-4239-83d9-f01ef219362d)
+![PurrfectMatch ERD](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/c02bfa9d-e7ae-47a2-8f7d-60f8990f8534)
+
 
 
 # Routing Table                                   
