@@ -206,8 +206,8 @@ https://trello.com/b/VbdaIAZh/purrrfect-match
 Emre, Greg, Grant
 
 # Resources:
-https://git.generalassemb.ly/seb-beherenow/django-setup-urls-views
-https://git.generalassemb.ly/seb-beherenow/django-authentication
+- https://git.generalassemb.ly/seb-beherenow/django-setup-urls-views
+- https://git.generalassemb.ly/seb-beherenow/django-authentication
 
 
 
