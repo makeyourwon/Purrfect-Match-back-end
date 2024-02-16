@@ -174,6 +174,7 @@ SIMPLE_JWT = {
     'AUTH_TOKEN_CLASSES': ('rest_framework_simplejwt.tokens.AccessToken',),
     'TOKEN_TYPE_CLAIM': 'token_type',
 }
+```
 
 
 
@@ -206,6 +207,7 @@ Emre, Greg, Grant
 
 # Resources:
 https://git.generalassemb.ly/seb-beherenow/django-setup-urls-views
+https://git.generalassemb.ly/seb-beherenow/django-authentication
 
 
 
