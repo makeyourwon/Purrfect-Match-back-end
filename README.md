@@ -1,5 +1,6 @@
 # Purrfect-Match-back-end
-![PurrfectMatch](https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/7a1ffc3c-278d-4a94-a1af-3c9ebff69364)
+<img width="1465" alt="Purrfect_match main" src="https://github.com/makeyourwon/Purrfect-Match-back-end/assets/149891853/de9081e2-159d-42a9-a262-ad671d0597df">
+
 
 
 # Overview
