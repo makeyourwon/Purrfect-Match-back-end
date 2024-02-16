@@ -124,7 +124,7 @@ DATABASES = {
 ```
 Set auth:
 ```bash
-# catcollector/settings.py
+# purrfect_match/settings.py
 
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1'] # allows requests from localhost - will need to update again for deployment
