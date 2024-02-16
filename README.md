@@ -8,7 +8,15 @@ https://purrfect-match-front-end.vercel.app/
 https://purrfect-match-back-end-7b130ef4f9c3.herokuapp.com
 
 # Overview
-PurrfectMatch is built for helping animal adoption. You can view and add the furry friend to adoption list. You will be able to contact the shelter for further application.
+PurrfectMatch is a dynamic web platform dedicated to supporting and streamlining the process of animal adoption. This backend repository powers the PurrfectMatch application, handling data management, server-side logic, and API endpoints essential for the frontend functionality.
+
+Our backend is designed with the goal of creating a seamless and efficient experience for users looking to adopt pets or for shelters to list animals in need of a home. By offering a robust and responsive API, the backend ensures that users can easily browse, view, and interact with a wide range of animals available for adoption.
+
+Features
++ Animal Listings: Users can view detailed profiles of various animals, including photos, descriptions, age, breed, and more.
++ User Profiles: Allows users to create and manage their profiles, facilitating a personalized experience.
++ Favorites Management: Users can mark animals as favorites, making it easier to find and follow up on specific pets they are interested in.
++ Shelter Communication: Provides the functionality for users to contact shelters or animal owners directly from the platform for adoption inquiries.
 
 # Team
 - Backend:
