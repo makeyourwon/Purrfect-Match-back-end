@@ -52,6 +52,34 @@ PurrfectMatch is built for helping animal adoption. You can view and add the fur
 | Add an animal to favorites | /favorites/add/pk/                | POST   | Add an animal to one profile's favorites.      |
 | Remove an animal from favorites | /favorites/remove/pk/ | POST(DELETE) | Remove an animal from favorites. |
 
+# Setup and Installation
+Clone the Repository:
+```bash
+git clone https://github.com/makeyourwon/Purrfect-Match-back-end.git
+```
+Set Up a Virtual Environment (Optional but recommended):
+bash
+Copy code
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+Install Required Packages:
+bash
+Copy code
+pip install -r requirements.txt
+Database Migrations:
+bash
+Copy code
+python manage.py makemigrations
+python manage.py migrate
+Create a Superuser (Optional):
+bash
+Copy code
+python manage.py createsuperuser
+Run the Development Server:
+bash
+Copy code
+python manage.py runserver
+
 # Trello
 https://trello.com/b/VbdaIAZh/purrrfect-match
 
@@ -75,6 +103,8 @@ https://trello.com/b/VbdaIAZh/purrrfect-match
 4. Donations page with link
 5. Pet Care Tips for new owners
 
+# Instructors:
+Emre, Greg, Grant
 
 
 
