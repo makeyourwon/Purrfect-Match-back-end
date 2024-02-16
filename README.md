@@ -57,28 +57,126 @@ Clone the Repository:
 ```bash
 git clone https://github.com/makeyourwon/Purrfect-Match-back-end.git
 ```
-Set Up a Virtual Environment (Optional but recommended):
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-Install Required Packages:
-bash
-Copy code
-pip install -r requirements.txt
-Database Migrations:
-bash
-Copy code
-python manage.py makemigrations
-python manage.py migrate
-Create a Superuser (Optional):
-bash
-Copy code
-python manage.py createsuperuser
-Run the Development Server:
-bash
-Copy code
-python manage.py runserver
+Start a virtual environment:
+```bash
+pipenv shell
+```
+Install dependencies:
+```bash
+pipenv install django psycopg2-binary djangorestframework
+pip install python-dotenv
+```
+Create your database in sql, in terminal enter:
+```bash psql```
+Then,
+```bash
+CREATE DATABASE <Your database name>;
+
+CREATE USER <Username> WITH PASSWORD '<password>';
+
+GRANT ALL PRIVILEGES ON DATABASE <Your database name> TO <Username>;
+
+ALTER DATABASE <Your database name> OWNER TO <Username>;
+```
+Then enter
+```bash
+\q
+```
+to get back to pipenv.
+Run:
+```bash
+python3 manage.py migrate
+```
+Run below to create superuser for Django api:
+```bash
+python3 manage.py createsuperuser
+```
+Seed the database:
+```bash
+pipenv install djangorestframework-simplejwt django-cors-headers
+python3 manage.py import_animals transformed_data_output.json
+pipenv install django-filter
+```
+Setting your settings.py:
+```bash
+INSTALLED_APPS = [
+	'django.contrib.admin',
+	'django.contrib.auth',
+	'django.contrib.contenttypes',
+	'django.contrib.sessions',
+	'django.contrib.messages',
+	'django.contrib.staticfiles',
+  	'rest_framework', # Add this line.
+  	'main_app', # Add this line.
+]
+```
+```bash
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'purrfect_match', # project name.
+        # 'HOST': 'localhost',  <-- (optional) some computers might need this line
+        # 'USER': 'cat_admin', <-- (optional) postgres user name, if you have to sign into an account to open psql, you will want to add that user name here.
+        # 'PASSWORD': 'password', <-- (optional) postgres user password, if you have to sign into an account to open psql, you will want to add that user password here.
+        # 'PORT': 3000 <-- if you desire to use a port other than 8000, you can change that here to any valid port id, some number between 1 and 65535 that isn't in use by some other process on your machine. The reason for this port number range is because of how TCP/IP works, a TCP/IP protocol network(the most widely used protocol used on the web) allocated 16 bits for port numbers. This means that number must be greater than 0 and less than 2^15 -1. 
+    }
+}
+```
+Set auth:
+```bash
+# catcollector/settings.py
+
+
+ALLOWED_HOSTS = ['localhost', '127.0.0.1'] # allows requests from localhost - will need to update again for deployment
+
+# CORS settings
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:3000",  # Adjust the port if your frontend runs on a different one
+]
+
+# Add 'corsheaders' to INSTALLED_APPS
+INSTALLED_APPS = [
+    ...
+    'corsheaders',
+    ...
+]
+
+# Add 'corsheaders.middleware.CorsMiddleware' to MIDDLEWARE
+MIDDLEWARE = [
+    ...
+    'corsheaders.middleware.CorsMiddleware',
+    ...
+]
+
+# Configuration for django-rest-framework-simplejwt
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework_simplejwt.authentication.JWTAuthentication',
+    )
+}
+
+# Configuration for simple JWT
+from datetime import timedelta
+
+SIMPLE_JWT = {
+    'ACCESS_TOKEN_LIFETIME': timedelta(days=1),
+    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),
+    'ROTATE_REFRESH_TOKENS': False,
+    'BLACKLIST_AFTER_ROTATION': True,
+    'UPDATE_LAST_LOGIN': False,
+
+    'ALGORITHM': 'HS256',
+    'SIGNING_KEY': SECRET_KEY,
+    'VERIFYING_KEY': None,
+    'AUTH_HEADER_TYPES': ('Bearer',),
+    'USER_ID_FIELD': 'id',
+    'USER_ID_CLAIM': 'user_id',
+    'AUTH_TOKEN_CLASSES': ('rest_framework_simplejwt.tokens.AccessToken',),
+    'TOKEN_TYPE_CLAIM': 'token_type',
+}
+
+
+
 
 # Trello
 https://trello.com/b/VbdaIAZh/purrrfect-match
@@ -105,6 +203,10 @@ https://trello.com/b/VbdaIAZh/purrrfect-match
 
 # Instructors:
 Emre, Greg, Grant
+
+# Resources:
+https://git.generalassemb.ly/seb-beherenow/django-setup-urls-views
+
 
 
 
