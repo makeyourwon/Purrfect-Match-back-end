@@ -77,7 +77,9 @@ pipenv install django psycopg2-binary djangorestframework
 pip install python-dotenv
 ```
 Create your database in sql, in terminal enter:
-```bash psql```
+```bash 
+psql
+```
 Then,
 ```bash
 CREATE DATABASE <Your database name>;
