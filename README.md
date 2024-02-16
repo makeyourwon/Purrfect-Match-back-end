@@ -17,6 +17,7 @@ Features
 + User Profiles: Allows users to create and manage their profiles, facilitating a personalized experience.
 + Favorites Management: Users can mark animals as favorites, making it easier to find and follow up on specific pets they are interested in.
 + Shelter Communication: Provides the functionality for users to contact shelters or animal owners directly from the platform for adoption inquiries.
++ Responsive API: A well-structured and efficient API that serves the backend with necessary data in a reliable and secure manner.
 
 # Team
 - Backend:
@@ -27,7 +28,7 @@ Features
   - Kevin: https://github.com/Kevelaz
 
 # Technique
-- Django, Python, Node, CORS, JSON, pet-finder API
+- Django, Python, CORS, JSON, pet-finder API
 
 # User Stories
 
